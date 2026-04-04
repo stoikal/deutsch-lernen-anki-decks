@@ -10710,7 +10710,7 @@
                 "I am sick.",
                 "NB: ill",
                 "[sound:googletts-dc4c2bbd-f15c87b1-f0aa2341-4ccef358-7ba9e737.mp3]",
-                ""
+                "s~"
             ],
             "guid": "ALA7D`!R!|",
             "note_model_uuid": "a7910c08-1a8c-11f1-b08a-099f8ddf8e57",
@@ -10771,7 +10771,7 @@
                 "geschlossen",
                 "Die Bank hat am Samstag geschlossen.",
                 "closed",
-                "The bank is closed on Saturday.",
+                "The bank was closed on Saturday.",
                 "",
                 "[sound:googletts-69a12ff5-d5f716c7-23fb139a-1bedb8f6-6c97e9e6.mp3]",
                 ""
