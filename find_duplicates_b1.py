@@ -4,7 +4,7 @@ import re
 import csv
 
 A1_PATH = "Deutsch_1__Goethe_A1_Wortliste/deck.json"
-A2_PATH = "Deutsch_2__Goethe_A2_Wortliste/deck.json"
+A2_PATH = "Deutsch_1__Goethe_A2_Wortliste/deck.json"
 B1_PATH = "Deutsch_2__Goethe_B1_Wortliste/deck.json"
 
 def load_words_from_deck(path, word_field_index):
