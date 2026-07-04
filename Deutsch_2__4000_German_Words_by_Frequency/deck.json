@@ -102,7 +102,7 @@
     "desiredRetention": null,
     "dyn": 0,
     "extendNew": 15,
-    "extendRev": 3,
+    "extendRev": 100,
     "media_files": [
         "0006846d-98ae-59db-a9db-284376208f1a.mp3",
         "001cffe6-5c45-5096-aeda-28eaa92e9654.mp3",
