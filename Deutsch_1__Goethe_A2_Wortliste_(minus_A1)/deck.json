@@ -1739,7 +1739,7 @@
         "yandex-ff54337c-a9a09a45-b7dd193a-b2c8df45-6451a611.mp3",
         "yandex-ff807ad7-dcefc90b-545fd8dc-fd1b477a-6d14982f.mp3"
     ],
-    "name": "Deutsch 1::Goethe A2 Wortliste",
+    "name": "Deutsch 1::Goethe A2 Wortliste (minus A1)",
     "newLimit": null,
     "newLimitToday": null,
     "note_models": [
@@ -3399,7 +3399,7 @@
                 "",
                 "",
                 "Im Deutschen gibt es drei Artikel: der, die und das.",
-                "In German there are three articles: die, die und das.",
+                "In German there are three articles: der, die und das.",
                 "Ich habe in der Zeitung einen interessanten Artikel gelesen.",
                 "I read an interesting article in the newspaper.",
                 "",
@@ -5636,9 +5636,9 @@
                 "Hast du keinen Hunger? - Doch, ich bin sehr hungrig.",
                 "Are you not hungry? - Yes, I'm very hungry.",
                 "Kannst du morgen nicht kommen? - Doch.",
-                "Can not you come tomorrow? - But.",
+                "Can not you come tomorrow? - Yes, I can",
                 "Geh doch mal wieder ins Kino!",
-                "Go back to the cinema!",
+                "Why don't you go to the cinema again?",
                 "Das macht doch nichts!",
                 "That does not matter!",
                 "210",
@@ -6115,7 +6115,9 @@
             ],
             "guid": "AtQ}2n+y<X",
             "note_model_uuid": "b5ae2c62-1a8c-11f1-b08a-099f8ddf8e57",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -6265,7 +6267,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "ein|ziehen",
+                "einziehen",
                 "to move in",
                 "",
                 "",
@@ -6865,7 +6867,7 @@
                 "",
                 "",
                 "",
-                ""
+                "E~"
             ],
             "guid": "ii$=-8b-N2",
             "note_model_uuid": "b5ae2c62-1a8c-11f1-b08a-099f8ddf8e57",
@@ -8558,7 +8560,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "her|stellen",
+                "her•stellen",
                 "to produce",
                 "",
                 "",
@@ -12870,7 +12872,7 @@
                 "[sound:yandex-aa075905-0f2a82a9-40c52c5b-bcf0bc29-6f434ee0.mp3]",
                 "",
                 "",
-                ""
+                "N~"
             ],
             "guid": "zjm1Igu@Rf",
             "note_model_uuid": "b5ae2c62-1a8c-11f1-b08a-099f8ddf8e57",
@@ -12909,7 +12911,7 @@
             "__type__": "Note",
             "fields": [
                 "ein paar",
-                "a few",
+                "a few, a couple ",
                 "",
                 "",
                 "",
@@ -15084,7 +15086,7 @@
             "__type__": "Note",
             "fields": [
                 "Ruhe",
-                "rest",
+                "rest, silence",
                 "die",
                 "(Sg.)",
                 "",
@@ -15103,7 +15105,7 @@
                 "[sound:yandex-d0528ec4-df0939ce-1266baef-b8d0aee9-b39c9384.mp3]",
                 "",
                 "",
-                ""
+                "n."
             ],
             "guid": "pU.R>{<]la",
             "note_model_uuid": "b5ae2c62-1a8c-11f1-b08a-099f8ddf8e57",
@@ -16127,7 +16129,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "statt|finden",
+                "statt•finden",
                 "to take place / to occur",
                 "",
                 "",
@@ -18338,7 +18340,7 @@
                 "",
                 "",
                 "Morgen habe ich frei. Ich komme übermorgen wieder ins Büro.",
-                "Tomorrow I'm off. I'll be back in the office.",
+                "Tomorrow I'm off. I'll be back in the office the day after tomorrow.",
                 "",
                 "",
                 "",
@@ -20332,7 +20334,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "weh|tun",
+                "weh•tun",
                 "to hurt",
                 "",
                 "",
@@ -20356,7 +20358,9 @@
             ],
             "guid": "k!-m#QBO^T",
             "note_model_uuid": "b5ae2c62-1a8c-11f1-b08a-099f8ddf8e57",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -21483,7 +21487,7 @@
                 "[sound:yandex-3d0f3d45-ea3bb450-1318120b-3539f9fc-fac7b6c2.mp3]",
                 "",
                 "",
-                ""
+                "Z~"
             ],
             "guid": "m^$[XT<>(J",
             "note_model_uuid": "b5ae2c62-1a8c-11f1-b08a-099f8ddf8e57",
