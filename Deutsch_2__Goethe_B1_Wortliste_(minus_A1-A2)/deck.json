@@ -2,14 +2,14 @@
     "__type__": "Deck",
     "children": [],
     "crowdanki_uuid": "c91b8722-1a8c-11f1-b08a-099f8ddf8e57",
-    "deck_config_uuid": "58a3827c-2fce-11f1-aa56-8bdf6c6eb63a",
+    "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "answerAction": 0,
             "autoplay": true,
             "buryInterdayLearning": false,
-            "crowdanki_uuid": "58a3827c-2fce-11f1-aa56-8bdf6c6eb63a",
+            "crowdanki_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
             "desiredRetention": 0.9,
             "dyn": false,
             "easyDaysPercentages": [
@@ -58,7 +58,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "8",
+            "name": "10",
             "new": {
                 "bury": false,
                 "delays": [
@@ -72,9 +72,9 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 8
+                "perDay": 10
             },
-            "newGatherPriority": 5,
+            "newGatherPriority": 0,
             "newMix": 0,
             "newPerDayMinimum": 0,
             "newSortOrder": 0,
@@ -86,7 +86,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 80
+                "perDay": 200
             },
             "reviewOrder": 0,
             "secondsToShowAnswer": 0.0,
@@ -102,7 +102,7 @@
     "desiredRetention": null,
     "dyn": 0,
     "extendNew": 0,
-    "extendRev": 13,
+    "extendRev": 31,
     "media_files": [
         "sapi5js-00035331-d909d8be-c5d2b04d-ba202643-6566b18c.mp3",
         "sapi5js-000e10bc-07a8278d-4d0ed5d2-5f1642e1-482c2806.mp3",
@@ -3726,7 +3726,7 @@
         "sapi5js-ffcf16f0-1da35b32-2ac3a839-f1994f6c-8c2d4635.mp3",
         "sapi5js-ffeec91f-7ca5f52b-b6bdeab1-1626be1a-6bd3b6a6.mp3"
     ],
-    "name": "Deutsch 2::Goethe B1 Wortliste",
+    "name": "Deutsch 2::Goethe B1 Wortliste (minus A1-A2)",
     "newLimit": null,
     "newLimitToday": null,
     "note_models": [
@@ -15671,7 +15671,7 @@
                 "",
                 "",
                 "",
-                ""
+                "n."
             ],
             "guid": "u|Vl+#O!gt",
             "note_model_uuid": "c91f65ae-1a8c-11f1-b08a-099f8ddf8e57",
@@ -19195,7 +19195,9 @@
             ],
             "guid": "nF1hK-cYYr",
             "note_model_uuid": "c91f65ae-1a8c-11f1-b08a-099f8ddf8e57",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -20863,7 +20865,7 @@
                 "",
                 "",
                 "",
-                ""
+                "n."
             ],
             "guid": "lxTE2[?~b3",
             "note_model_uuid": "c91f65ae-1a8c-11f1-b08a-099f8ddf8e57",
@@ -24135,7 +24137,7 @@
                 "-\"sse",
                 "der Abschluss",
                 "Ein guter Schulabschluss ist sehr wichtig.",
-                "A good education is very important.",
+                "A good education-result is very important. (Graduating with good grades is very important)",
                 "",
                 "",
                 "",
@@ -27331,7 +27333,7 @@
                 "",
                 "",
                 "",
-                ""
+                "n."
             ],
             "guid": "rdg3P9xo^o",
             "note_model_uuid": "c91f65ae-1a8c-11f1-b08a-099f8ddf8e57",
@@ -28611,7 +28613,9 @@
             ],
             "guid": "bF,,Xr.,!^",
             "note_model_uuid": "c91f65ae-1a8c-11f1-b08a-099f8ddf8e57",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -38077,7 +38081,7 @@
             "__type__": "Note",
             "fields": [
                 "die Kündigung, -en",
-                "notice",
+                "termination notice",
                 "Kündigung",
                 "die",
                 "-en",
@@ -38479,7 +38483,7 @@
                 "",
                 "berechnen, berechnet, berechnete, hat berechnet",
                 "Den Transport müssen wir Ihnen extra berechnen.",
-                "The transport we have to charge extra.",
+                "We have to charge you extra for the transport.",
                 "",
                 "",
                 "",
@@ -40843,7 +40847,9 @@
             ],
             "guid": "b7x2]Ez&t)",
             "note_model_uuid": "c91f65ae-1a8c-11f1-b08a-099f8ddf8e57",
-            "tags": []
+            "tags": [
+                "leech"
+            ]
         },
         {
             "__type__": "Note",
@@ -46515,7 +46521,7 @@
                 "",
                 "",
                 "",
-                ""
+                "n."
             ],
             "guid": ";XDd0g<<o",
             "note_model_uuid": "c91f65ae-1a8c-11f1-b08a-099f8ddf8e57",
@@ -52895,7 +52901,7 @@
                 "",
                 "",
                 "",
-                ""
+                "n."
             ],
             "guid": "DzBVt1Dn^m",
             "note_model_uuid": "c91f65ae-1a8c-11f1-b08a-099f8ddf8e57",
@@ -56557,7 +56563,7 @@
             "__type__": "Note",
             "fields": [
                 "glatt",
-                "smooth, slipperz",
+                "smooth, slippery",
                 "glatt",
                 "",
                 "",
@@ -61739,7 +61745,7 @@
                 "",
                 "",
                 "",
-                ""
+                "g~"
             ],
             "guid": "dC!pXR`}E_",
             "note_model_uuid": "c91f65ae-1a8c-11f1-b08a-099f8ddf8e57",
@@ -64379,7 +64385,7 @@
                 "",
                 "",
                 "",
-                ""
+                "o~"
             ],
             "guid": "DB{wlPCI:Z",
             "note_model_uuid": "c91f65ae-1a8c-11f1-b08a-099f8ddf8e57",
@@ -68261,7 +68267,7 @@
             "__type__": "Note",
             "fields": [
                 "wundern, wundert, wunderte, hat gewundert",
-                "surprise",
+                "to surprise",
                 "wundern",
                 "",
                 "",
@@ -70812,7 +70818,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Schwieger",
+                "schwieger",
                 "in-laws",
                 "Schwieger",
                 "",
