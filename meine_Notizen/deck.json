@@ -20,7 +20,7 @@
                     "__type__": "Note",
                     "fields": [
                         "singular, masculine, definite",
-                        "der (z.b. der Stift)"
+                        "der (z. B. der Stift)"
                     ],
                     "guid": "cvXSo@d1+`",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -30,7 +30,7 @@
                     "__type__": "Note",
                     "fields": [
                         "singular, masculine, indefinite",
-                        "ein (z.b. ein Stift)"
+                        "ein (z. B. ein Stift)"
                     ],
                     "guid": "c0FLGJM~4N",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -40,7 +40,7 @@
                     "__type__": "Note",
                     "fields": [
                         "singular, feminine, definite",
-                        "die (z.b. die Brille)"
+                        "die (z. B. die Brille)"
                     ],
                     "guid": "PL{j(@HfT?",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -50,7 +50,7 @@
                     "__type__": "Note",
                     "fields": [
                         "singular, feminine, indefinite",
-                        "eine (z.b. eine Brille)"
+                        "eine (z. B. eine Brille)"
                     ],
                     "guid": "Fv60Bf)fPP",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -60,7 +60,7 @@
                     "__type__": "Note",
                     "fields": [
                         "singular, neuter, definite",
-                        "das (z.b. das Buch)"
+                        "das (z. B. das Buch)"
                     ],
                     "guid": "lC3Kh!sN.@",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -70,7 +70,7 @@
                     "__type__": "Note",
                     "fields": [
                         "singular, neuter, indefinite",
-                        "ein (z.b. ein Buch)"
+                        "ein (z. B. ein Buch)"
                     ],
                     "guid": "C!UqwX[!|n",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -80,7 +80,7 @@
                     "__type__": "Note",
                     "fields": [
                         "plural, masculine, definite",
-                        "die (z.b. die Stifte)"
+                        "die (z. B. die Stifte)"
                     ],
                     "guid": "ri(u;nMdj*",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -90,7 +90,7 @@
                     "__type__": "Note",
                     "fields": [
                         "plural, feminine, definite",
-                        "die (z.b. die Brillen)"
+                        "die (z. B. die Brillen)"
                     ],
                     "guid": "q{n]ha=Wva",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -100,7 +100,7 @@
                     "__type__": "Note",
                     "fields": [
                         "plural, neuter, definite",
-                        "die (z.b. die Bücher)"
+                        "die (z. B. die Bücher)"
                     ],
                     "guid": "zo[X$BMG2$",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -150,7 +150,7 @@
                     "__type__": "Note",
                     "fields": [
                         "numerals used as nouns",
-                        "feminine (die)<br><br>z. b. die Eins, die Zwei"
+                        "feminine (die)<br><br>z. B. die Eins, die Zwei"
                     ],
                     "guid": "LiWpQf}9$5",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -162,7 +162,7 @@
                     "__type__": "Note",
                     "fields": [
                         "metals and chemical elements",
-                        "neuter (das)<br><br>z. b. das Blei, das Gold"
+                        "neuter (das)<br><br>z. B. das Blei, das Gold"
                     ],
                     "guid": "On^PVg?kbQ",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -202,7 +202,7 @@
                     "__type__": "Note",
                     "fields": [
                         "letters of the alphabet and music notes",
-                        "neuter (das)<br><br>z. b. das \"A\", das \"B\", das \"Fis\" "
+                        "neuter (das)<br><br>z. B. das \"A\", das \"B\", das \"Fis\" "
                     ],
                     "guid": "yUy9^c(1N9",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -212,7 +212,7 @@
                     "__type__": "Note",
                     "fields": [
                         "rocks and minerals",
-                        "masculine (der)<br><br>z. b. der Diamant, der Granit"
+                        "masculine (der)<br><br>z. B. der Diamant, der Granit"
                     ],
                     "guid": "B{,5cv!OGZ",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -232,7 +232,7 @@
                     "__type__": "Note",
                     "fields": [
                         "car makes",
-                        "masculine (der)<br><br>z. b. der Audi, der BMW"
+                        "masculine (der)<br><br>z. B. der Audi, der BMW"
                     ],
                     "guid": "d(<$&]8>X4",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -242,7 +242,7 @@
                     "__type__": "Note",
                     "fields": [
                         "monetary units",
-                        "masculine (der)<br><br>z. b. der Euro, der Cent"
+                        "masculine (der)<br><br>z. B. der Euro, der Cent"
                     ],
                     "guid": "m]I6;TK^N_",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -282,7 +282,7 @@
                     "__type__": "Note",
                     "fields": [
                         "seasons, and most weather elements",
-                        "masculine (der)<br><br>z. b. der Sommer, der Regen"
+                        "masculine (der)<br><br>z. B. der Sommer, der Regen"
                     ],
                     "guid": "ya+#Q&,%4k",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -302,7 +302,7 @@
                     "__type__": "Note",
                     "fields": [
                         "nouns formed from measurement or size adjectives",
-                        "feminine (die)<br><br>z. b. die Größe, die Länge"
+                        "feminine (die)<br><br>z. B. die Größe, die Länge"
                     ],
                     "guid": "GggmPfKSC;",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -314,7 +314,7 @@
                     "__type__": "Note",
                     "fields": [
                         "other parts of speech used as nouns (gerunds, colors, languages, English -ing forms)",
-                        "neuter (das)<br><br>z. b. das Singen, das Blau"
+                        "neuter (das)<br><br>z. B. das Singen, das Blau"
                     ],
                     "guid": "qeZX}pd^d[",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -324,7 +324,7 @@
                     "__type__": "Note",
                     "fields": [
                         "alcoholic and plant-based drinks",
-                        "masculine (der)<br><br>z. b. der Wein, der Saft"
+                        "masculine (der)<br><br>z. B. der Wein, der Saft"
                     ],
                     "guid": "v32<%A?vJ)",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -334,7 +334,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-a",
-                        "feminine (die)<br><br>z. b. die Kamera"
+                        "feminine (die)<br><br>z. B. die Kamera"
                     ],
                     "guid": "s_t>Sw29IY",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -344,7 +344,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ung",
-                        "feminine (die)<br><br>z. b. die Wohnung, die Zeitung"
+                        "feminine (die)<br><br>z. B. die Wohnung, die Zeitung"
                     ],
                     "guid": "c4i1vt=-l9",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -354,7 +354,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ismus",
-                        "masculine (der)<br><br>der Optimismus"
+                        "masculine (der)<br><br>z. B. der Optimismus"
                     ],
                     "guid": "wQwA#<*V%t",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -364,7 +364,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-icht",
-                        "neuter (das)<br><br>z. b. das Licht"
+                        "neuter (das)<br><br>z. B. das Licht"
                     ],
                     "guid": "nBYS==,DJI",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -376,7 +376,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ling",
-                        "masculine (der)<br><br>z. b. der Schmetterling"
+                        "masculine (der)<br><br>z. B. der Schmetterling"
                     ],
                     "guid": "IoXOlWCn6E",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -386,7 +386,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-enz",
-                        "feminine (die)<br><br>z. b. die Existenz, die Kompetenz"
+                        "feminine (die)<br><br>z. B. die Existenz, die Kompetenz"
                     ],
                     "guid": "K8#}Z]4[nC",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -396,7 +396,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-schaft",
-                        "feminine (die)<br><br>z.b. die Wissenschaft"
+                        "feminine (die)<br><br>z. B. die Wissenschaft"
                     ],
                     "guid": "QQ)V_J`r*%",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -406,7 +406,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ik",
-                        "feminine (die)<br><br>die Politik "
+                        "feminine (die)<br><br>z. B. die Politik"
                     ],
                     "guid": "B]CT&Ln?_V",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -416,7 +416,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ma",
-                        "neuter (das)<br><br>z. b. das Thema, das Schema"
+                        "neuter (das)<br><br>z. B. das Thema, das Schema"
                     ],
                     "guid": "<_QuaI<$l",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -426,7 +426,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-or",
-                        "masculine (der)<br><br>z. b. der Motor"
+                        "masculine (der)<br><br>z. B. der Motor"
                     ],
                     "guid": "DgS~NcI&o}",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -436,7 +436,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-us",
-                        "masculine (der)<br><br>z. b. der Zirkus"
+                        "masculine (der)<br><br>z. B. der Zirkus"
                     ],
                     "guid": "Q-NK:,qK]]",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -446,7 +446,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-it",
-                        "neuter (das)<br><br>das Dynamit"
+                        "neuter (das)<br><br>z. B. das Dynamit"
                     ],
                     "guid": "wA_#{>Ti?[",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -456,7 +456,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-lein",
-                        "neuter (das)<br><br>z. b. das Häuslein, das Fräulein"
+                        "neuter (das)<br><br>z. B. das Häuslein, das Fräulein"
                     ],
                     "guid": "zVasOzPwP)",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -466,7 +466,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-um",
-                        "neuter (das)<br><br>z. b. das Museum"
+                        "neuter (das)<br><br>z. B. das Museum"
                     ],
                     "guid": "ATT<:_p;##",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -476,7 +476,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-heit",
-                        "feminine (die)<br><br>z. b. die Gesundheit"
+                        "feminine (die)<br><br>z. B. die Gesundheit"
                     ],
                     "guid": "v}9{W)g~e[",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -486,7 +486,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ment",
-                        "neuter (das)<br><br>z. b. das Element"
+                        "neuter (das)<br><br>z. B. das Element"
                     ],
                     "guid": "Q:v;+Ib{S)",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -496,7 +496,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-keit",
-                        "feminine (die)<br><br>die Möglichkeit"
+                        "feminine (die)<br><br>z. B. die Möglichkeit"
                     ],
                     "guid": "C%{o!`/!rw",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -506,7 +506,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-il",
-                        "neuter (das)<br><br>z. b. das Profil"
+                        "neuter (das)<br><br>z. B. das Profil"
                     ],
                     "guid": "b{{fG!twz+",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -516,7 +516,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ei",
-                        "feminine (die)<br><br>z. b. die Bäckerei"
+                        "feminine (die)<br><br>z. B. die Bäckerei"
                     ],
                     "guid": "pIuL0L4>Mv",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -526,7 +526,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-anz",
-                        "feminine (die)<br><br>z. b. die Distanz, die Konstanz"
+                        "feminine (die)<br><br>z. B. die Distanz, die Konstanz"
                     ],
                     "guid": "z,(CDK]q*[",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -536,7 +536,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-tät",
-                        "feminine (die)<br><br>z. b. die Universität"
+                        "feminine (die)<br><br>z. B. die Universität"
                     ],
                     "guid": "xScBCvxp}|",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -546,7 +546,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-sis",
-                        "feminine (die)<br><br>z. b. die Basis"
+                        "feminine (die)<br><br>z. B. die Basis"
                     ],
                     "guid": "I~n++](x3!",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -556,7 +556,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ig",
-                        "masculine (der)<br><br>z. b. der Honig"
+                        "masculine (der)<br><br>z. B. der Honig"
                     ],
                     "guid": "DU:/9@&S;0",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -566,7 +566,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ur",
-                        "feminine (die)<br><br>z. b. die Kultur, die Natur"
+                        "feminine (die)<br><br>z. B. die Kultur, die Natur"
                     ],
                     "guid": "pzz~MSlf%N",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -576,7 +576,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-sion",
-                        "feminine (die)<br><br>z. b. die Diskussion"
+                        "feminine (die)<br><br>z. B. die Diskussion"
                     ],
                     "guid": "I*Dd(?U*1H",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -586,7 +586,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-tel",
-                        "neuter (das)<br><br>z. b. das Viertel"
+                        "neuter (das)<br><br>z. B. das Viertel"
                     ],
                     "guid": "k%i$B*$Lgn",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -596,7 +596,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-tion",
-                        "feminine (die)<br><br>z. b. die Nation, die Produktion"
+                        "feminine (die)<br><br>z. B. die Nation, die Produktion"
                     ],
                     "guid": "Fg[V=.fG_z",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -606,7 +606,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ich",
-                        "masculine (der)<br><br>der Teppich"
+                        "masculine (der)<br><br>z. B. der Teppich"
                     ],
                     "guid": "D[!X5-G=%p",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -616,7 +616,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-chen",
-                        "neuter (das)<br><br>das Brötchen"
+                        "neuter (das)<br><br>z. B. das Brötchen"
                     ],
                     "guid": "FsYS^Dll[w",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -626,7 +626,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ie",
-                        "feminine (die)<br><br>z. b. die Philosophie"
+                        "feminine (die)<br><br>z. B. die Philosophie"
                     ],
                     "guid": "e1YZ(`]:EM",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -636,7 +636,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ast",
-                        "masculine (der)<br><br>z. b. der Kontrast"
+                        "masculine (der)<br><br>z. B. der Kontrast"
                     ],
                     "guid": "LrO~>]o{<<",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -646,7 +646,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-tum",
-                        "neuter (das)<br><br>z. b. das Altertum, das Königtum"
+                        "neuter (das)<br><br>z. B. das Altertum, das Königtum"
                     ],
                     "guid": "qEgE3J,9$R",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
@@ -656,7 +656,7 @@
                     "__type__": "Note",
                     "fields": [
                         "-ant",
-                        "masculine (der)<br><br>z. b. der Konsonant"
+                        "masculine (der)<br><br>z. B. der Konsonant"
                     ],
                     "guid": "Hw!*7O.[Uz",
                     "note_model_uuid": "c07301de-e09f-11f1-9923-8122118e039f",
