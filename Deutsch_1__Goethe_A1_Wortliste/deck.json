@@ -1168,7 +1168,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454456",
-                "antworten",
+                "antworten, antwortet, antwortete, hat geantwortet",
                 "Er antwortet nicht.",
                 "to answer",
                 "He isn’t answering.",
@@ -1216,7 +1216,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454459",
-                "(sich) anziehen",
+                "(sich) anziehen, zieht (sich) an, zog (sich) an, hat (sich) angezogen",
                 "Ich muss mich noch anziehen.",
                 "to get dressed",
                 "I still need to get dressed.",
@@ -1280,7 +1280,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454463",
-                "arbeiten",
+                "arbeiten, arbeitet, arbeitete, hat gearbeitet",
                 "Wo arbeiten Sie?",
                 "to work",
                 "Where do you work?",
@@ -1456,7 +1456,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454474",
-                "aufhören",
+                "aufhören, hört auf, hörte auf, hat aufgehört",
                 "Der Kurs hört in einer Woche auf.",
                 "to end",
                 "The course ends in a week.",
@@ -1472,7 +1472,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454475",
-                "aufhören",
+                "aufhören, hört auf, hörte auf, hat aufgehört",
                 "Hier hört die Bahnhofstraße auf.",
                 "to end",
                 "Bahnhofstraße ends here.",
@@ -1504,7 +1504,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454477",
-                "aufstehen",
+                "aufstehen, steht auf, stand auf, ist aufgestanden",
                 "Ich muss immer um vier Uhr aufstehen.",
                 "to get up",
                 "I always need to get up at 4 am.",
@@ -1520,7 +1520,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454478",
-                "aufstehen",
+                "aufstehen, steht auf, stand auf, ist aufgestanden",
                 "Soll ich aufstehen?",
                 "to get up",
                 "Should I get up?",
@@ -1600,7 +1600,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454483",
-                "aus|füllen",
+                "aus|füllen, füllt aus, füllte aus, hat ausgefüllt",
                 "Füllen Sie bitte dieses Formular aus.",
                 "to fill out",
                 "Please fill out this form.",
@@ -1696,7 +1696,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454489",
-                "ausmachen",
+                "ausmachen, macht aus, machte aus, hat ausgemacht",
                 "Mach bitte das Licht aus!",
                 "to switch off",
                 "Please switch off the light!",
@@ -1728,7 +1728,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454491",
-                "aussehen",
+                "aussehen, sieht aus, sah aus, hat ausgesehen",
                 "Das sieht schön aus.",
                 "to look",
                 "That looks beautiful.",
@@ -1776,7 +1776,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454494",
-                "aussteigen",
+                "aussteigen, steigt aus, stieg aus, ist ausgestiegen",
                 "Wo muss ich aussteigen?",
                 "to alight",
                 "Where do I need to alight?",
@@ -1808,7 +1808,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454496",
-                "ausziehen",
+                "ausziehen, zieht aus, zog aus, hat ausgezogen",
                 "Zieh die Schuhe aus, bitte!",
                 "to take off",
                 "Please take off your shoes!",
@@ -1824,7 +1824,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454497",
-                "sich ausziehen",
+                "sich ausziehen, zieht sich aus, zog sich aus, hat sich ausgezogen",
                 "Ich ziehe mich aus.",
                 "to get undressed",
                 "I get undressed.",
@@ -1952,7 +1952,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454505",
-                "baden",
+                "baden, badet, badete, hat gebadet",
                 "Ich bade nicht so gern, ich dusche lieber.",
                 "to bathe",
                 "I don’t like bathing so much, I prefer to shower.",
@@ -2176,7 +2176,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454519",
-                "bedeuten",
+                "bedeuten, bedeutet, bedeutete, hat bedeutet",
                 "Was bedeutet das Wort?",
                 "to mean",
                 "What does that word mean?",
@@ -2192,7 +2192,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454520",
-                "beginnen",
+                "beginnen, beginnt, begann, hat begonnen",
                 "Das Spiel beginnt um 15.30 Uhr.",
                 "to begin",
                 "The game begins at 3:30 pm.",
@@ -2384,7 +2384,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454532",
-                "bekommen",
+                "bekommen, bekommt, bekam, hat bekommen",
                 "Haben Sie meinen Brief bekommen?",
                 "to receive",
                 "Did you receive my letter?",
@@ -2400,7 +2400,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454533",
-                "bekommen",
+                "bekommen, bekommt, bekam, hat bekommen",
                 "Was bekommen Sie?",
                 "to have",
                 "What will you have?",
@@ -2416,7 +2416,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454534",
-                "bekommen",
+                "bekommen, bekommt, bekam, hat bekommen",
                 "Dieses Medikament bekommen Sie in der Apotheke.",
                 "to get",
                 "You can get this medicine in a pharmacy.",
@@ -2432,7 +2432,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454535",
-                "benutzen",
+                "benutzen, benutzt, benutzte, hat benutzt",
                 "Die Aufzüge bitte nicht benutzen!",
                 "to use",
                 "Please don’t use the lifts!",
@@ -2512,7 +2512,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454540",
-                "besichtigen",
+                "besichtigen, besichtigt, besichtigte, hat besichtigt",
                 "Ich möchte gern den Dom besichtigen.",
                 "to visit",
                 "I would like to visit the cathedral.",
@@ -2560,7 +2560,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454543",
-                "bestellen",
+                "bestellen, bestellt, bestellte, hat bestellt",
                 "Wir möchten bestellen, bitte.",
                 "to order",
                 "We would like to order, please.",
@@ -2576,7 +2576,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454544",
-                "bestellen",
+                "bestellen, bestellt, bestellte, hat bestellt",
                 "Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?",
                 "to order",
                 "We don’t have this book, should we order it for you?",
@@ -2592,7 +2592,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454545",
-                "besuchen",
+                "besuchen, besucht, besuchte, hat besucht",
                 "Darf ich dich besuchen?",
                 "to visit",
                 "May I visit you?",
@@ -2624,7 +2624,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454547",
-                "bezahlen",
+                "bezahlen, bezahlt, bezahlte, hat bezahlt",
                 "Wo muss ich bezahlen?",
                 "to pay",
                 "Where do I need to pay?",
@@ -2800,7 +2800,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454558",
-                "bitten",
+                "bitten, bittet, bat, hat gebeten",
                 "Darf ich Sie um etwas bitten?",
                 "to ask",
                 "May I ask something of you?",
@@ -2832,7 +2832,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454560",
-                "bleiben",
+                "bleiben, bleibt, blieb, ist geblieben",
                 "Ich bleibe heute zu Hause.",
                 "to stay",
                 "I'm staying home today.",
@@ -2848,7 +2848,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454561",
-                "bleiben",
+                "bleiben, bleibt, blieb, ist geblieben",
                 "Wir bleiben nur bis morgen.",
                 "to stay",
                 "We are only staying until tomorrow.",
@@ -2944,7 +2944,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454567",
-                "brauchen",
+                "brauchen, braucht, brauchte, hat gebraucht",
                 "Brauchst du die Zeitung noch?",
                 "to need",
                 "Do you still need the newspaper?",
@@ -3008,7 +3008,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454571",
-                "bringen",
+                "bringen, bringt, brachte, hat gebracht",
                 "Bringen Sie mir bitte noch einen Kaffee!",
                 "to bring",
                 "Please bring me another coffee!",
@@ -3024,7 +3024,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454572",
-                "bringen",
+                "bringen, bringt, brachte, hat gebracht",
                 "Wir müssen ihn zum Arzt bringen.",
                 "to take",
                 "We need to take him to the doctor.",
@@ -3152,7 +3152,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454580",
-                "buchstabieren",
+                "buchstabieren, buchstabiert, buchstabierte, hat buchstabiert",
                 "Bitte buchstabieren Sie Ihren Namen.",
                 "to spell",
                 "Please spell your name.",
@@ -3392,7 +3392,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454595",
-                "danken",
+                "danken, dankt, dankte, hat gedankt",
                 "Ich danke Ihnen für die Einladung.",
                 "to thank",
                 "I thank you for the invitation.",
@@ -3488,7 +3488,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454601",
-                "dauern",
+                "dauern, dauert, dauerte, hat gedauert",
                 "Wie lange dauert der Film?",
                 "to take (duration)",
                 "How long is the film?",
@@ -3792,7 +3792,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454620",
-                "drucken",
+                "drucken, druckt, druckte, hat gedruckt",
                 "Bitte drucke das Formular für mich.",
                 "to print",
                 "Please print the form for me.",
@@ -3824,7 +3824,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454622",
-                "drücken",
+                "drücken, drückt, drückte, hat gedrückt",
                 "Drück hier, dann geht der Computer an.",
                 "to press",
                 "Press here, then the computer turns on.",
@@ -3872,7 +3872,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454625",
-                "dürfen",
+                "dürfen, darf, durfte, hat gedurft",
                 "Sie dürfen hier nicht rauchen.",
                 "to be allowed",
                 "You are not allowed to smoke here.",
@@ -3888,7 +3888,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454626",
-                "dürfen",
+                "dürfen, darf, durfte, hat gedurft",
                 "Darf ich Sie zu einem Kaffee einladen?",
                 "to be allowed",
                 "May I invite you for a coffee?",
@@ -3904,7 +3904,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454627",
-                "dürfen",
+                "dürfen, darf, durfte, hat gedurft",
                 "Es darf nicht mehr als 15 Euro kosten.",
                 "to be allowed",
                 "It may not cost more than 15 euros.",
@@ -3936,7 +3936,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454629",
-                "(sich) duschen",
+                "(sich) duschen, duscht (sich), duschte (sich), hat (sich) geduscht",
                 "Ich bade nicht so gern, ich dusche lieber.",
                 "to shower",
                 "I don’t like bathing so much, I prefer to shower.",
@@ -4144,7 +4144,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454642",
-                "einkaufen",
+                "einkaufen, kauft ein, kaufte ein, hat eingekauft",
                 "Ich muss noch für morgen einkaufen.",
                 "to go shopping",
                 "I still need to go shopping for tomorrow.",
@@ -4160,7 +4160,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454643",
-                "einladen",
+                "einladen, lädt ein, lud ein, hat eingeladen",
                 "Darf ich Sie zu einem Kaffee einladen?",
                 "to invite / treat",
                 "May I treat you to a coffee?",
@@ -4224,7 +4224,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454647",
-                "ein|steigen",
+                "ein|steigen, steigt ein, stieg ein, ist eingestiegen",
                 "Schnell, steig ein, der Zug fährt gleich.",
                 "to get on (board)",
                 "Quick, get on, the train is about to leave!",
@@ -4320,7 +4320,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454653",
-                "empfehlen",
+                "empfehlen, empfiehlt, empfahl, hat empfohlen",
                 "Welchen Wein können Sie mir empfehlen?",
                 "to recommend",
                 "Which wine can you recommend to me?",
@@ -4336,7 +4336,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454654",
-                "enden",
+                "enden, endet, endete, hat geendet",
                 "Die Straße endet hier.",
                 "to end",
                 "The street ends here.",
@@ -4384,7 +4384,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454657",
-                "entschuldigen",
+                "entschuldigen, entschuldigt, entschuldigte, hat entschuldigt",
                 "Entschuldigen Sie bitte!",
                 "to excuse",
                 "Excuse me, please!",
@@ -4448,7 +4448,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454661",
-                "erklären",
+                "erklären, erklärt, erklärte, hat erklärt",
                 "Kannst du mir das erklären?",
                 "to explain",
                 "Can you explain that to me?",
@@ -4464,7 +4464,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454662",
-                "erlauben",
+                "erlauben, erlaubt, erlaubte, hat erlaubt",
                 "Rauchen ist hier nicht erlaubt.",
                 "to allow",
                 "Smoking is not allowed here.",
@@ -4496,7 +4496,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454664",
-                "erzählen",
+                "erzählen, erzählt, erzählte, hat erzählt",
                 "Wir müssen euch etwas erzählen!",
                 "to tell",
                 "We need to tell you (pl.) something!",
@@ -4528,7 +4528,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454666",
-                "essen",
+                "essen, isst, aß, hat gegessen",
                 "Was gibt es zu essen?",
                 "to eat",
                 "What is there to eat?",
@@ -4576,7 +4576,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454669",
-                "fahren",
+                "fahren, fährt, fuhr, ist gefahren",
                 "Ich fahre mit dem Auto zur Arbeit.",
                 "to travel",
                 "I go to work by car.",
@@ -4768,7 +4768,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454681",
-                "feiern",
+                "feiern, feiert, feierte, hat gefeiert",
                 "Wir feiern heute meinen Geburtstag.",
                 "to celebrate",
                 "Today we are celebrating my birthday.",
@@ -4784,7 +4784,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454682",
-                "fehlen",
+                "fehlen, fehlt, fehlte, hat gefehlt",
                 "Herr Müller ist nicht da, er fehlt schon seit drei Tagen.",
                 "to be absent",
                 "Mr Müller is not here, he’s been absent for three days.",
@@ -4800,7 +4800,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454683",
-                "fehlen",
+                "fehlen, fehlt, fehlte, hat gefehlt",
                 "Was fehlt Ihnen?",
                 "to be missing",
                 "What are you missing? (formal) ",
@@ -4832,7 +4832,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454685",
-                "fernsehen",
+                "fernsehen, sieht fern, sah fern, hat ferngesehen",
                 "Wollen wir heute Abend mal fernsehen?",
                 "to watch TV",
                 "Shall we watch TV this evening?",
@@ -4928,7 +4928,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454691",
-                "finden",
+                "finden, findet, fand, hat gefunden",
                 "Wir müssen den Schlüssel finden.",
                 "to find",
                 "We must find the key.",
@@ -5008,7 +5008,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454696",
-                "fliegen",
+                "fliegen, fliegt, flog, ist geflogen",
                 "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug.",
                 "to fly",
                 "I don’t like to fly. Therefore I travel by train.",
@@ -5024,7 +5024,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454697",
-                "abfliegen",
+                "abfliegen, fliegt ab, flog ab, ist abgeflogen",
                 "Wann fliegst du ab?",
                 "to depart (by air)",
                 "When do you depart?",
@@ -5120,7 +5120,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454703",
-                "fragen",
+                "fragen, fragt, fragte, hat gefragt",
                 "Er möchte Sie etwas fragen. Wann kommen Sie?",
                 "to ask",
                 "He would like to ask you something. When are you coming?",
@@ -5248,7 +5248,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454711",
-                "(sich) freuen",
+                "(sich) freuen, freut (sich), freute (sich), hat (sich) gefreut",
                 "Ich freue mich auf den Urlaub.",
                 "to look forward",
                 "I’m looking forward to the holiday.",
@@ -5312,7 +5312,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454715",
-                "frühstücken",
+                "frühstücken, frühstückt, frühstückte, hat gefrühstückt",
                 "Am Sonntag frühstücke ich gern im Bett.",
                 "to have breakfast",
                 "On Sunday I like to have breakfast in bed.",
@@ -5472,7 +5472,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454725",
-                "geben",
+                "geben, gibt, gab, hat gegeben",
                 "Kannst du mir bitte deinen Kugelschreiber geben?",
                 "to give",
                 "Can you give me your pen, please?",
@@ -5568,7 +5568,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454731",
-                "gefallen",
+                "gefallen, gefällt, gefiel, hat gefallen",
                 "Das gefällt mir.",
                 "to be pleasing to",
                 "I like that / That's pleasing to me. ",
@@ -5632,7 +5632,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454735",
-                "gehen",
+                "gehen, geht, ging, ist gegangen",
                 "Ich weiß nicht, wie das geht.",
                 "to work/function",
                 "I don’t know how it works./I don't know how to do that.",
@@ -5648,7 +5648,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454736",
-                "gehen",
+                "gehen, geht, ging, ist gegangen",
                 "Wie geht's?",
                 "to go",
                 "How is it going?",
@@ -5664,7 +5664,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454737",
-                "gehen",
+                "gehen, geht, ging, ist gegangen",
                 "Jetzt muss ich (aber) leider gehen.",
                 "to go",
                 "Unfortunately I need to go now.",
@@ -5680,7 +5680,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454738",
-                "gehen",
+                "gehen, geht, ging, ist gegangen",
                 "Ich muss zum Arzt gehen.",
                 "to go",
                 "I need to go to the doctor.",
@@ -5696,7 +5696,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454739",
-                "gehen",
+                "gehen, geht, ging, ist gegangen",
                 "Das geht nicht!",
                 "to be okay",
                 "That’s not okay!",
@@ -5712,7 +5712,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454740",
-                "gehören",
+                "gehören, gehört, gehörte, hat gehört",
                 "Wem gehört das?",
                 "to belong",
                 "To whom does that belong?",
@@ -5952,7 +5952,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454755",
-                "gewinnen",
+                "gewinnen, gewinnt, gewann, hat gewonnen",
                 "Wer gewinnt das Spiel?",
                 "to win",
                 "Who is winning the game?",
@@ -6000,7 +6000,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454758",
-                "glauben",
+                "glauben, glaubt, glaubte, hat geglaubt",
                 "Sie können mir glauben, es ist so.",
                 "to believe",
                 "You can believe me, it’s true.",
@@ -6016,7 +6016,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454759",
-                "glauben",
+                "glauben, glaubt, glaubte, hat geglaubt",
                 "Ich glaube, er kommt gleich.",
                 "to think",
                 "I think he’ll be here in a moment.",
@@ -6160,7 +6160,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454768",
-                "gratulieren",
+                "gratulieren, gratuliert, gratulierte, hat gratuliert",
                 "Ich gratuliere dir!",
                 "to congratulate",
                 "I congratulate you!",
@@ -6176,7 +6176,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454769",
-                "grillen",
+                "grillen, grillt, grillte, hat gegrillt",
                 "Heute grillen wir im Garten.",
                 "to (have a) barbecue",
                 "Today we are having a barbecue in the garden.",
@@ -6464,7 +6464,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454787",
-                "haben",
+                "haben, hat, hatte, hat gehabt",
                 "Ich habe ein neues Auto.",
                 "to have",
                 "I have a new car.",
@@ -6544,7 +6544,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454792",
-                "halten",
+                "halten, hält, hielt, hat gehalten",
                 "Dieser Zug hält nicht in Rüdesheim.",
                 "to stop",
                 "This train does not stop in Rüdesheim.",
@@ -6720,7 +6720,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454803",
-                "heiraten",
+                "heiraten, heiratet, heiratete, hat geheiratet",
                 "Meine Schwester heiratet einen Japaner.",
                 "to marry",
                 "My sister is marrying a Japanese man.",
@@ -6736,7 +6736,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454804",
-                "heißen",
+                "heißen, heißt, hieß, hat geheißen",
                 "Ich heiße Charlotte Meier.",
                 "to be called",
                 "I’m called Charlotte Meier.",
@@ -6752,7 +6752,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454805",
-                "heißen",
+                "heißen, heißt, hieß, hat geheißen",
                 "Wie heißt das auf Deutsch?",
                 "to be called",
                 "What’s that called in German?",
@@ -6768,7 +6768,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454806",
-                "helfen",
+                "helfen, hilft, half, hat geholfen",
                 "Können Sie mir helfen, bitte?",
                 "to help",
                 "Can you help me, please?",
@@ -6992,7 +6992,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454820",
-                "holen",
+                "holen, holt, holte, hat geholt",
                 "Ich hole zwei Flaschen Wasser aus der Küche.",
                 "to fetch",
                 "I’m fetching two bottles of water from the kitchen.",
@@ -7008,7 +7008,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454821",
-                "hören",
+                "hören, hört, hörte, hat gehört",
                 "Hör mal! Was ist das?",
                 "to listen",
                 "Listen! What is that?",
@@ -7024,7 +7024,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454822",
-                "hören",
+                "hören, hört, hörte, hat gehört",
                 "Ich habe das Lied schon mal gehört.",
                 "to hear",
                 "I have already heard that song.",
@@ -7552,7 +7552,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454855",
-                "kaufen",
+                "kaufen, kauft, kaufte, hat gekauft",
                 "Tim kauft sich ein neues Auto.",
                 "to buy",
                 "Tim buys himself a new car.",
@@ -7584,7 +7584,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454857",
-                "kennen",
+                "kennen, kennt, kannte, hat gekannt",
                 "Kennen Sie diese Frau? / Nein, leider nicht.",
                 "to know",
                 "Do you know this woman? / No, unfortunately not.",
@@ -7600,7 +7600,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454858",
-                "kennenlernen",
+                "kennenlernen, lernt kennen, lernte kennen, hat kennengelernt",
                 "Wir sind neu hier. Wir möchten Sie kennenlernen.",
                 "to get to know",
                 "We are new here. We would like to get to know you.",
@@ -7760,7 +7760,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454868",
-                "kochen",
+                "kochen, kocht, kochte, hat gekocht",
                 "Herr Georgi kann gut kochen.",
                 "to cook",
                 "Mr Georgi is good at cooking.",
@@ -7808,7 +7808,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454871",
-                "kommen",
+                "kommen, kommt, kam, ist gekommen",
                 "Woher kommen Sie? / Aus Frankreich.",
                 "to come",
                 "Where do you come from? / From France.",
@@ -7824,7 +7824,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454872",
-                "kommen",
+                "kommen, kommt, kam, ist gekommen",
                 "Kommst du mit ins Schwimmbad?",
                 "to come",
                 "Are you coming with us to the pool?",
@@ -7840,7 +7840,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454873",
-                "können",
+                "können, kann, konnte, hat gekonnt",
                 "Ich kann Deutsch und Russisch.",
                 "to be able to",
                 "I can speak German and Russian.",
@@ -7856,7 +7856,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454874",
-                "können",
+                "können, kann, konnte, hat gekonnt",
                 "Können Sie mir helfen?",
                 "to be able to",
                 "Can you help me?",
@@ -7904,7 +7904,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454877",
-                "kosten",
+                "kosten, kostet, kostete, hat gekostet",
                 "Wie viel kostet das? / 10 Euro.",
                 "to cost",
                 "How much does that cost? / 10 euros.",
@@ -7936,7 +7936,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454879",
-                "kriegen",
+                "kriegen, kriegt, kriegte, hat gekriegt",
                 "Ich kriege 15 Euro in der Stunde für meine Arbeit.",
                 "to get",
                 "I get 15 euros an hour for my work.",
@@ -8048,7 +8048,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454886",
-                "sich kümmern",
+                "sich kümmern, kümmert sich, kümmerte sich, hat sich gekümmert",
                 "Jede Mutter kümmert sich um ihre kleinen Kinder.",
                 "to look after",
                 "Every mother looks after her little children.",
@@ -8112,7 +8112,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454890",
-                "lachen",
+                "lachen, lacht, lachte, hat gelacht",
                 "Die Kinder lachen viel.",
                 "to laugh",
                 "The children laugh a lot.",
@@ -8208,7 +8208,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454896",
-                "laufen",
+                "laufen, läuft, lief, ist gelaufen",
                 "Ich möchte nicht Auto fahren, ich möchte laufen.",
                 "to walk/run",
                 "I don’t want to go by car, I want to walk.",
@@ -8240,7 +8240,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454898",
-                "leben",
+                "leben, lebt, lebte, hat gelebt",
                 "Sie lebt bei ihrer Schwester.",
                 "to live",
                 "She lives at her sister‘s.",
@@ -8256,7 +8256,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454899",
-                "leben",
+                "leben, lebt, lebte, hat gelebt",
                 "Ihre Eltern leben nicht mehr.",
                 "to live",
                 "Her parents are no longer alive.",
@@ -8320,7 +8320,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454903",
-                "legen",
+                "legen, legt, legte, hat gelegt",
                 "Legen Sie das Buch auf den Tisch.",
                 "to put",
                 "Put the book on the table.",
@@ -8416,7 +8416,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454909",
-                "lernen",
+                "lernen, lernt, lernte, hat gelernt",
                 "Wie lange lernen Sie schon Deutsch?",
                 "to learn",
                 "How long have you been learning German?",
@@ -8432,7 +8432,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454910",
-                "lesen",
+                "lesen, liest, las, hat gelesen",
                 "Ich lese ein Buch von García Márquez.",
                 "to read",
                 "I’m reading a book by García Márquez.",
@@ -8512,7 +8512,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454915",
-                "lieben",
+                "lieben, liebt, liebte, hat geliebt",
                 "Ich liebe dich!",
                 "to love",
                 "I love you!",
@@ -8576,7 +8576,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454919",
-                "liegen",
+                "liegen, liegt, lag, hat gelegen",
                 "Um neun Uhr liegt Judith noch im Bett.",
                 "to lie",
                 "At 9 am Judith is still (lying) in bed.",
@@ -8592,7 +8592,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454920",
-                "liegen",
+                "liegen, liegt, lag, hat gelegen",
                 "Frankfurt liegt am Main.",
                 "to lie / be located",
                 "Frankfurt lies on the Main.",
@@ -8688,7 +8688,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454926",
-                "machen",
+                "machen, macht, machte, hat gemacht",
                 "Was machst du heute Abend?",
                 "to do",
                 "What are you doing this evening?",
@@ -8704,7 +8704,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454927",
-                "machen",
+                "machen, macht, machte, hat gemacht",
                 "Ich muss jetzt das Essen machen.",
                 "to make",
                 "I need to make the food now.",
@@ -8720,7 +8720,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454928",
-                "machen",
+                "machen, macht, machte, hat gemacht",
                 "Das macht 5 Euro 95.",
                 "to come to",
                 "That comes to 5 euros 95.",
@@ -8736,7 +8736,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454929",
-                "machen",
+                "machen, macht, machte, hat gemacht",
                 "Das macht nichts.",
                 "…",
                 "It doesn't matter.",
@@ -8912,7 +8912,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454940",
-                "mieten",
+                "mieten, mietet, mietete, hat gemietet",
                 "Ich möchte ein Auto mieten.",
                 "to rent",
                 "I would like to rent a car.",
@@ -8976,7 +8976,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454944",
-                "mitbringen",
+                "mitbringen, bringt mit, brachte mit, hat mitgebracht",
                 "Ich gehe einkaufen. Soll ich dir was mitbringen?",
                 "to bring with one / to get (sth. for sb.)",
                 "I’m going shopping. Should I get you anything?",
@@ -8992,7 +8992,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454945",
-                "mitkommen",
+                "mitkommen, kommt mit, kam mit, ist mitgekommen",
                 "Ich gehe ins Kino. Kommst du mit?",
                 "to come with",
                 "I’m going to the cinema. Are you coming with me?",
@@ -9008,7 +9008,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454946",
-                "mitmachen",
+                "mitmachen, macht mit, machte mit, hat mitgemacht",
                 "Warum macht ihr nicht mit?",
                 "to join in",
                 "Why don‘t you (pl.) join in?",
@@ -9024,7 +9024,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454947",
-                "mitnehmen",
+                "mitnehmen, nimmt mit, nahm mit, hat mitgenommen",
                 "Nehmen wir meine Schwester ins Kino mit?",
                 "to take with",
                 "Are we taking my sister with us to the cinema?",
@@ -9088,7 +9088,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454951",
-                "mögen",
+                "mögen, mag, mochte, hat gemocht",
                 "Magst du Kaffee oder Tee?",
                 "to like",
                 "Do you like coffee or tea?",
@@ -9200,7 +9200,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454958",
-                "müssen",
+                "müssen, muss, musste, hat gemusst",
                 "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.",
                 "to have to",
                 "I have to work from 8 am to 6 pm every day.",
@@ -9328,7 +9328,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454966",
-                "nehmen",
+                "nehmen, nimmt, nahm, hat genommen",
                 "Heute gibt es Hähnchen. Das nehme ich.",
                 "to have (food/drink)",
                 "There is chicken today. I’ll have that.",
@@ -9344,7 +9344,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454967",
-                "nehmen",
+                "nehmen, nimmt, nahm, hat genommen",
                 "Ich nehme den Bus.",
                 "to take",
                 "I take the bus.",
@@ -9648,7 +9648,7 @@
             "__type__": "Note",
             "fields": [
                 "84886454987",
-                "öffnen",
+                "öffnen, öffnet, öffnete, hat geöffnet",
                 "Ich öffne die Tür.",
                 "to open",
                 "I open the door.",
@@ -10176,7 +10176,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455020",
-                "Rad fahren",
+                "Rad fahren, fährt Rad, fuhr Rad, ist Rad gefahren",
                 "Das Kind kann schon Rad fahren.",
                 "to cycle",
                 "The child can already ride a bike.",
@@ -10192,7 +10192,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455021",
-                "rauchen",
+                "rauchen, raucht, rauchte, hat geraucht",
                 "Ich rauche nicht.",
                 "to smoke",
                 "I don’t smoke.",
@@ -10256,7 +10256,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455025",
-                "regnen",
+                "regnen, regnet, regnete, hat geregnet",
                 "Heute regnet es.",
                 "to rain",
                 "Today it’s raining.",
@@ -10304,7 +10304,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455028",
-                "reisen",
+                "reisen, reist, reiste, ist gereist",
                 "Ich reise gern.",
                 "to travel",
                 "I like to travel.",
@@ -10384,7 +10384,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455033",
-                "reparieren",
+                "reparieren, repariert, reparierte, hat repariert",
                 "Er hat das Fahrrad repariert.",
                 "to repair",
                 "He repaired the bicycle.",
@@ -10480,7 +10480,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455039",
-                "riechen",
+                "riechen, riecht, roch, hat gerochen",
                 "Dieser Wein riecht gut.",
                 "to smell",
                 "This wine smells good.",
@@ -10528,7 +10528,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455042",
-                "sagen",
+                "sagen, sagt, sagte, hat gesagt",
                 "Sag mal, wie geht es dir denn?",
                 "to say / tell",
                 "Tell me, how’s it going?",
@@ -10624,7 +10624,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455048",
-                "scheinen",
+                "scheinen, scheint, schien, hat geschienen",
                 "Die Sonne scheint.",
                 "to shine",
                 "The sun is shining.",
@@ -10640,7 +10640,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455049",
-                "schicken",
+                "schicken, schickt, schickte, hat geschickt",
                 "Bitte schicken Sie mir eine E-Mail.",
                 "to send",
                 "Please send me an email.",
@@ -10688,7 +10688,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455052",
-                "schlafen",
+                "schlafen, schläft, schlief, hat geschlafen",
                 "Ich schlafe meistens acht Stunden.",
                 "to sleep",
                 "I usually sleep for eight hours.",
@@ -10752,7 +10752,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455056",
-                "schließen",
+                "schließen, schließt, schloss, hat geschlossen",
                 "Bitte, schließen Sie die Tür.",
                 "to close",
                 "Please close the door.",
@@ -10832,7 +10832,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455061",
-                "schmecken",
+                "schmecken, schmeckt, schmeckte, hat geschmeckt",
                 "Schmeckt das gut?",
                 "to taste",
                 "Does that taste good?",
@@ -10928,7 +10928,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455067",
-                "schreiben",
+                "schreiben, schreibt, schrieb, hat geschrieben",
                 "Er schreibt jeden Tag fünfzig E-Mails.",
                 "to write",
                 "He writes fifty emails a day.",
@@ -11056,7 +11056,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455075",
-                "schwimmen",
+                "schwimmen, schwimmt, schwamm, ist geschwommen",
                 "Ich schwimme jeden Tag einen Kilometer.",
                 "to swim",
                 "I swim a kilometre every day.",
@@ -11104,7 +11104,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455078",
-                "sehen",
+                "sehen, sieht, sah, hat gesehen",
                 "Ich kann dich nicht sehen.",
                 "to see",
                 "I can’t see you.",
@@ -11120,7 +11120,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455079",
-                "sehen",
+                "sehen, sieht, sah, hat gesehen",
                 "Ich habe diesen Jungen schon einmal gesehen.",
                 "to see",
                 "I have seen this boy before.",
@@ -11200,7 +11200,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455084",
-                "sein",
+                "sein, ist, war, ist gewesen",
                 "Mir ist kalt.",
                 "to be",
                 "I'm cold.",
@@ -11216,7 +11216,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455085",
-                "sein",
+                "sein, ist, war, ist gewesen",
                 "Ich bin dreiundzwanzig.",
                 "to be",
                 "I am twenty three.",
@@ -11376,7 +11376,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455095",
-                "sitzen",
+                "sitzen, sitzt, saß, hat gesessen",
                 "Wo sitzen Sie?",
                 "to sit",
                 "Where are you sitting?",
@@ -11504,7 +11504,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455103",
-                "sollen",
+                "sollen, soll, sollte, hat gesollt",
                 "Soll ich kommen?",
                 "should",
                 "Should I come?",
@@ -11520,7 +11520,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455104",
-                "sollen",
+                "sollen, soll, sollte, hat gesollt",
                 "Was soll ich mitbringen?",
                 "should",
                 "What should I bring with me?",
@@ -11600,7 +11600,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455109",
-                "spielen",
+                "spielen, spielt, spielte, hat gespielt",
                 "Die Kinder spielen draußen.",
                 "to play",
                 "The children are playing outside.",
@@ -11616,7 +11616,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455110",
-                "spielen",
+                "spielen, spielt, spielte, hat gespielt",
                 "Spielen Sie Karten?",
                 "to play",
                 "Do you play cards?",
@@ -11664,7 +11664,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455113",
-                "sprechen",
+                "sprechen, spricht, sprach, hat gesprochen",
                 "Kann ich (mit) Herrn Klein sprechen?",
                 "to speak",
                 "Can I speak with Mr Klein?",
@@ -11696,7 +11696,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455115",
-                "stehen",
+                "stehen, steht, stand, hat gestanden",
                 "Ich glaube es nicht, aber es steht in der Zeitung.",
                 "to be (written)",
                 "I don’t believe it, but it says so in the paper.",
@@ -11712,7 +11712,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455116",
-                "stehen",
+                "stehen, steht, stand, hat gestanden",
                 "Der Bus steht schon an der Haltestelle.",
                 "to be (located)",
                 "The bus is already at the stop.",
@@ -11744,7 +11744,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455118",
-                "stellen",
+                "stellen, stellt, stellte, hat gestellt",
                 "Stell die Tasche rechts in die Ecke!",
                 "to put",
                 "Put your bag on the right in the corner.",
@@ -11808,7 +11808,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455122",
-                "studieren",
+                "studieren, studiert, studierte, hat studiert",
                 "Ich studiere in Mainz.",
                 "to study",
                 "I study in Mainz.",
@@ -11872,7 +11872,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455126",
-                "suchen",
+                "suchen, sucht, suchte, hat gesucht",
                 "Suchst du etwas?",
                 "to look / search for",
                 "Are you looking for something?",
@@ -11888,7 +11888,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455127",
-                "tanzen",
+                "tanzen, tanzt, tanzte, hat getanzt",
                 "Tanzen Sie gern?",
                 "to dance",
                 "Do you like to dance?",
@@ -11968,7 +11968,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455132",
-                "telefonieren",
+                "telefonieren, telefoniert, telefonierte, hat telefoniert",
                 "Darf ich mal telefonieren?",
                 "to telephone",
                 "May I make a phone call?",
@@ -12176,7 +12176,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455145",
-                "(sich) treffen",
+                "(sich) treffen, trifft (sich), traf (sich), hat (sich) getroffen",
                 "Ich treffe in der Stadt einen Kollegen.",
                 "to meet",
                 "I am meeting a colleague in town.",
@@ -12192,7 +12192,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455146",
-                "(sich) treffen",
+                "(sich) treffen, trifft (sich), traf (sich), hat (sich) getroffen",
                 "Wir treffen uns immer freitags.",
                 "to meet",
                 "We always meet on Fridays.",
@@ -12224,7 +12224,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455148",
-                "trinken",
+                "trinken, trinkt, trank, hat getrunken",
                 "Möchtest du etwas trinken?",
                 "to drink",
                 "Would you like something to drink?",
@@ -12256,7 +12256,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455150",
-                "tun",
+                "tun, tut, tat, hat getan",
                 "Ich habe noch etwas zu tun.",
                 "to do",
                 "I still have something to do.",
@@ -12272,7 +12272,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455151",
-                "tun",
+                "tun, tut, tat, hat getan",
                 "Was tut Ihr Mann?",
                 "to do",
                 "What does your husband do?",
@@ -12336,7 +12336,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455155",
-                "übernachten",
+                "übernachten, übernachtet, übernachtete, hat übernachtet",
                 "Du kannst bei mir übernachten.",
                 "to stay overnight",
                 "You can stay at mine overnight.",
@@ -12352,7 +12352,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455156",
-                "überweisen",
+                "überweisen, überweist, überwies, hat überwiesen",
                 "Sie können das Geld auch überweisen.",
                 "to transfer",
                 "You can also transfer the money.",
@@ -12416,7 +12416,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455160",
-                "umziehen",
+                "umziehen, zieht um, zog um, ist umgezogen",
                 "Nächsten Monat ziehen wir um.",
                 "to move (residence)",
                 "Next month we are moving.",
@@ -12512,7 +12512,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455166",
-                "unterschreiben",
+                "unterschreiben, unterschreibt, unterschrieb, hat unterschrieben",
                 "Wo muss ich unterschreiben?",
                 "to sign",
                 "Where do I need to sign?",
@@ -12592,7 +12592,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455171",
-                "verdienen",
+                "verdienen, verdient, verdiente, hat verdient",
                 "Ich verdiene 1.500 Euro im Monat.",
                 "to earn",
                 "I earn 1,500 euros per month.",
@@ -12640,7 +12640,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455174",
-                "verkaufen",
+                "verkaufen, verkauft, verkaufte, hat verkauft",
                 "Er verkauft sein altes Auto.",
                 "to sell",
                 "He is selling his old car.",
@@ -12672,7 +12672,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455176",
-                "vermieten",
+                "vermieten, vermietet, vermietete, hat vermietet",
                 "Die Wohnung ist schon vermietet.",
                 "to rent out",
                 "The flat is already rented out.",
@@ -12704,7 +12704,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455178",
-                "verstehen",
+                "verstehen, versteht, verstand, hat verstanden",
                 "Können Sie mich verstehen?",
                 "to understand",
                 "Can you understand me?",
@@ -12880,7 +12880,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455189",
-                "(sich) vorstellen",
+                "(sich) vorstellen, stellt (sich) vor, stellte (sich) vor, hat (sich) vorgestellt",
                 "Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?",
                 "to introduce",
                 "We would like to get to know each other. Can you introduce yourself?",
@@ -12912,7 +12912,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455191",
-                "wandern",
+                "wandern, wandert, wanderte, ist gewandert",
                 "Wir wandern um den Chiemsee.",
                 "to hike",
                 "We are hiking around the Chiem lake.",
@@ -12976,7 +12976,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455195",
-                "warten",
+                "warten, wartet, wartete, hat gewartet",
                 "Können Sie ein paar Minuten warten?",
                 "to wait",
                 "Can you wait a few minutes?",
@@ -12992,7 +12992,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455196",
-                "warten",
+                "warten, wartet, wartete, hat gewartet",
                 "Auf wen warten Sie?",
                 "to wait",
                 "Who are you waiting for?",
@@ -13072,7 +13072,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455201",
-                "(sich) waschen",
+                "(sich) waschen, wäscht (sich), wusch (sich), hat (sich) gewaschen",
                 "Wo kann ich mir die Hände waschen?",
                 "to wash",
                 "Where can I wash my hands?",
@@ -13088,7 +13088,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455202",
-                "(sich) waschen",
+                "(sich) waschen, wäscht (sich), wusch (sich), hat (sich) gewaschen",
                 "Ich muss morgen waschen.",
                 "to wash",
                 "I need to do laundry tomorrow.",
@@ -13120,7 +13120,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455204",
-                "weh tun",
+                "weh tun, tut weh, tat weh, hat wehgetan",
                 "Ich muss zum Arzt. Mein Bein tut weh.",
                 "to hurt",
                 "I need to go to the doctor. My leg hurts.",
@@ -13280,7 +13280,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455214",
-                "werden",
+                "werden, wird, wurde, ist geworden",
                 "Mein Sohn will Arzt werden.",
                 "to become",
                 "My son wants to become a doctor.",
@@ -13440,7 +13440,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455224",
-                "wiederholen",
+                "wiederholen, wiederholt, wiederholte, hat wiederholt",
                 "Können Sie das bitte wiederholen?",
                 "to repeat",
                 "Can you repeat that, please?",
@@ -13552,7 +13552,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455231",
-                "wissen",
+                "wissen, weiß, wusste, hat gewusst",
                 "Weißt du, wie er heißt?",
                 "to know",
                 "Do you know what he is called?",
@@ -13664,7 +13664,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455238",
-                "wohnen",
+                "wohnen, wohnt, wohnte, hat gewohnt",
                 "Ich wohne in München.",
                 "to live",
                 "I live in Munich.",
@@ -13696,7 +13696,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455240",
-                "wollen",
+                "wollen, will, wollte, hat gewollt",
                 "Wollen Sie einen Kaffee trinken?",
                 "to want",
                 "Do you want to get a coffee?",
@@ -13744,7 +13744,7 @@
             "__type__": "Note",
             "fields": [
                 "84886455243",
-                "zahlen",
+                "zahlen, zahlt, zahlte, hat gezahlt",
                 "Wir möchten zahlen, bitte!",
                 "to pay",
                 "We’d like to pay, please!",
@@ -15888,7 +15888,7 @@
             "__type__": "Note",
             "fields": [
                 "86187263997",
-                "(sich) waschen",
+                "(sich) waschen, wäscht (sich), wusch (sich), hat (sich) gewaschen",
                 "Ich wasche mich morgens.",
                 "to wash",
                 "I wash myself in the morning.",
