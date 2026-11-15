@@ -5483,6 +5483,2138 @@
             ],
             "reviewLimit": null,
             "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "69e2695c-f289-5145-85a9-dba4e75d58b0",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "18 Modalverben – Bedeutung",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<i>nicht müssen</i> = {{c1::nicht nötig (nicht brauchen zu)}}<br><i>nicht dürfen</i> = {{c2::verboten}}",
+                        "Du musst nicht kommen. = Du brauchst nicht zu kommen. (Es ist nicht nötig.)<br>Du darfst nicht kommen. (Es ist verboten.)"
+                    ],
+                    "guid": "TFs<]6:;Nb",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<i>brauchen</i> mit Verneinung: Du {{c1::brauchst}} das nicht {{c2::zu}} machen.",
+                        "= Du musst das nicht machen.<br>EN: You don't need to do that."
+                    ],
+                    "guid": "N1{{a01swr",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "können = {{c1::Fähigkeit / Möglichkeit}} · dürfen = {{c2::Erlaubnis}} · müssen = {{c3::Notwendigkeit}} · sollen = {{c4::Aufforderung / Rat (von anderen)}} · wollen = {{c5::fester Wunsch / Plan}} · möchten = {{c6::höflicher Wunsch}} · mögen = {{c7::Vorliebe}}",
+                        ""
+                    ],
+                    "guid": "{JyZcw=cxJ",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich {{c1::mag}} Kaffee. (Vorliebe) · Ich {{c2::möchte}} einen Kaffee. (jetzt, höflich)",
+                        "mögen + Nomen · möchten + Nomen/Infinitiv"
+                    ],
+                    "guid": "67q^j>.uRv",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hier {{c1::darf::dürfen}} man nicht parken.",
+                        "EN: You're not allowed to park here."
+                    ],
+                    "guid": ".NYPj|@8}i",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Du {{c1::musst::müssen}} nicht kommen, aber du {{c2::kannst::können}}.",
+                        "EN: You don't have to come, but you can."
+                    ],
+                    "guid": "+ZT`*esyHv",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wir {{c1::müssen}} keine Hausaufgaben machen.",
+                        "keine = nicht nötig<br>EN: We don't have to do any homework."
+                    ],
+                    "guid": "HE922}WC_y",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich {{c1::kann::können}} sehr gut schwimmen.",
+                        "Fähigkeit<br>EN: I can swim very well."
+                    ],
+                    "guid": "89t5fj;sM)",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Kann::können}} ich das Fenster öffnen?",
+                        "Erlaubnis (umgangssprachlich)<br>EN: Can I open the window?"
+                    ],
+                    "guid": "b(iK9Qaiq{",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Der Arzt sagt, ich {{c1::soll::sollen}} mehr Wasser trinken.",
+                        "sollen = ein anderer will es<br>EN: The doctor says I should drink more water."
+                    ],
+                    "guid": "MW6d$3r4_G",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anna sagt, du {{c1::sollst::sollen}} sie zurückrufen.",
+                        "Nachricht weitergeben<br>EN: Anna says you should call her back."
+                    ],
+                    "guid": "O~1^JhAHI9",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Du {{c1::solltest::sollen}} mehr Sport treiben.",
+                        "Rat (Konjunktiv II)<br>EN: You should do more sport."
+                    ],
+                    "guid": "RExPot)t6<",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich {{c1::möchte::möchten}} einen Tee, bitte.",
+                        "EN: I'd like a tea, please."
+                    ],
+                    "guid": "~akd]er|^q",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Er {{c1::will::wollen}} unbedingt Pilot werden.",
+                        "EN: He absolutely wants to become a pilot."
+                    ],
+                    "guid": "FU}y5%Bm1%",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich {{c1::mag::mögen}} Schokolade.",
+                        "EN: I like chocolate."
+                    ],
+                    "guid": "DO@rGMXumF",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das Kind {{c1::darf::dürfen}} noch nicht allein über die Straße gehen.",
+                        "EN: The child isn't allowed to cross the street alone yet."
+                    ],
+                    "guid": ">Up}wrerdN",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Dürfte::dürfen}} ich kurz stören?",
+                        "höfliche Bitte (Konjunktiv II)<br>EN: Might I disturb you for a moment?"
+                    ],
+                    "guid": "q+%=:>~qaH",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das {{c1::muss::müssen}} ein Irrtum sein.",
+                        "müssen = Vermutung<br>EN: That must be a mistake."
+                    ],
+                    "guid": "2$~d==L%}n",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich muss morgen früh {{c1::aufstehen}}.",
+                        "trennbar: im Infinitiv bleibt das Verb zusammen<br>EN: I have to get up early tomorrow."
+                    ],
+                    "guid": "#)}le^owSM",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Modalverb im Perfekt: {{c1::haben}} + Infinitiv + {{c2::Modalverb im Infinitiv}} (Ersatzinfinitiv)",
+                        "Ich habe nicht kommen können. (nicht: gekonnt)"
+                    ],
+                    "guid": ")CC4di8PLT",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich habe gestern nicht kommen {{c1::können}}, weil ich krank war.",
+                        "Ersatzinfinitiv<br>EN: I couldn't come yesterday because I was ill."
+                    ],
+                    "guid": "4&[o>A!@>3",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Er hat lange {{c1::warten}} müssen.",
+                        "Ersatzinfinitiv: Infinitiv vor dem Modalverb<br>EN: He had to wait a long time."
+                    ],
+                    "guid": "kcC*/?FJH[",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalverben_bedeutung"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "6bb1974a-fada-5187-9fbe-d9419e3601ba",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "19 Imperativ und lassen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Imperativ: du → {{c1::Komm!}} (Stamm ohne -st, ohne du) · ihr → {{c2::Kommt!}} · Sie → {{c3::Kommen Sie!}}",
+                        "Bei Sie steht das Verb vor dem Pronomen."
+                    ],
+                    "guid": "s00q|D]P|N",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vokalwechsel e→i/ie bleibt im Imperativ (du): lesen → {{c1::Lies!}} · sprechen → {{c2::Sprich!}} · geben → {{c3::Gib!}} · nehmen → {{c4::Nimm!}} · sehen → {{c5::Sieh!}} · helfen → {{c6::Hilf!}}",
+                        ""
+                    ],
+                    "guid": "Ezs*JK:/r<",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kein Umlaut im Imperativ (du): fahren → {{c1::Fahr!}} · schlafen → {{c2::Schlaf!}} · laufen → {{c3::Lauf!}}",
+                        ""
+                    ],
+                    "guid": "bJX4Mj]&0-",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sein im Imperativ: du → {{c1::Sei!}} · ihr → {{c2::Seid!}} · Sie → {{c3::Seien Sie!}}",
+                        "Sei ruhig! · Seid pünktlich! · Seien Sie bitte vorsichtig!"
+                    ],
+                    "guid": "ZZJ4(F3+rZ",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Trennbare Verben im Imperativ: Das Präfix steht {{c1::am Ende}}.",
+                        "Ruf mich an! · Steh auf! · Mach das Fenster zu!"
+                    ],
+                    "guid": "6sKs+V.|^g",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bei Stämmen auf -t, -d, -ig oder Konsonant + n/m hängt man oft {{c1::-e}} an.",
+                        "Warte! · Arbeite! · Entschuldige!"
+                    ],
+                    "guid": "xx+D;;ABdK",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Reflexive Verben im Imperativ: Beeil {{c1::dich}}! · Beeilt {{c2::euch}}! · Beeilen Sie {{c3::sich}}!",
+                        ""
+                    ],
+                    "guid": "2{|;;3gCTN",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Komm::kommen}} bitte pünktlich!",
+                        "du-Form<br>EN: Please come on time."
+                    ],
+                    "guid": "$(+&7Q(ScQ",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Kommt::kommen}} bitte pünktlich!",
+                        "ihr-Form<br>EN: Please come on time (all of you)."
+                    ],
+                    "guid": "lFf}4@DW73",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Kommen::kommen}} Sie bitte pünktlich!",
+                        "Sie-Form<br>EN: Please come on time (formal)."
+                    ],
+                    "guid": "<c%iIM.LWL",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Seid::sein}} bitte leise!",
+                        "EN: Please be quiet (pl.)."
+                    ],
+                    "guid": "K!$,Bbai40",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Seien::sein}} Sie bitte pünktlich.",
+                        "EN: Please be on time (formal)."
+                    ],
+                    "guid": ")Ewm,2r$ta",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Nimm::nehmen}} den Bus, das ist schneller.",
+                        "EN: Take the bus, it's faster."
+                    ],
+                    "guid": "IGLzhI{=?^",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Fahr::fahren}} bitte langsamer!",
+                        "EN: Please drive more slowly!"
+                    ],
+                    "guid": "><hT_%_Ol}",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Lies::lesen}} den Text noch einmal.",
+                        "EN: Read the text once more."
+                    ],
+                    "guid": "]nM<5j%z(%",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Gib::geben}} mir bitte das Salz.",
+                        "EN: Pass me the salt, please."
+                    ],
+                    "guid": "klpS`5_-ev",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Sprecht::sprechen}} bitte langsamer!",
+                        "EN: Please speak more slowly (pl.)."
+                    ],
+                    "guid": "1y@=(2(v0S",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Warte::warten}} auf mich!",
+                        "EN: Wait for me!"
+                    ],
+                    "guid": "vA*?mVPbJ]",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Ruf::anrufen}} mich später {{c1::an}}!",
+                        "EN: Call me later!"
+                    ],
+                    "guid": "$n,pnMB$Yq",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Steh::aufstehen}} bitte {{c1::auf}}!",
+                        "EN: Please get up!"
+                    ],
+                    "guid": "7kK(7fM8=r",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Machen::zumachen}} Sie bitte das Fenster {{c1::zu}}!",
+                        "EN: Please close the window!"
+                    ],
+                    "guid": "G[9(jK<Cv7",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Setzen::sich setzen}} Sie {{c1::sich}} bitte.",
+                        "EN: Please sit down."
+                    ],
+                    "guid": "Y&ZqTQ[@|?",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Beeil::sich beeilen}} {{c1::dich}}, wir sind spät dran!",
+                        "EN: Hurry up, we're late!"
+                    ],
+                    "guid": "0Cc#|g)M?p",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>lassen</b> = {{c1::erlauben}} · {{c2::etwas machen lassen}} · {{c3::zurücklassen}}",
+                        "lässt, ließ, hat gelassen"
+                    ],
+                    "guid": "^kx;c]v)2&",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich {{c1::lasse::lassen}} mein Fahrrad reparieren.",
+                        "EN: I'm having my bike repaired."
+                    ],
+                    "guid": ",>n!vTJ@};",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Er {{c1::lässt::lassen}} sich die Haare schneiden.",
+                        "EN: He's getting his hair cut."
+                    ],
+                    "guid": "U4|3:,TY/C",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Meine Eltern {{c1::lassen}} mich nicht allein reisen.",
+                        "EN: My parents don't let me travel alone."
+                    ],
+                    "guid": "vz)iDI0<x`",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lass mich in {{c1::Ruhe}}!",
+                        "EN: Leave me alone!"
+                    ],
+                    "guid": "4-z;(nLM:r",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Lass::lassen}} uns gehen!",
+                        "EN: Let's go!"
+                    ],
+                    "guid": "/zk:w|URp~",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich habe meinen Schlüssel zu Hause {{c1::gelassen::lassen}}.",
+                        "lassen als Vollverb → gelassen<br>EN: I left my key at home."
+                    ],
+                    "guid": "rolvLHu%$t",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich habe mein Auto reparieren {{c1::lassen}}.",
+                        "lassen + Infinitiv → Ersatzinfinitiv im Perfekt<br>EN: I had my car repaired."
+                    ],
+                    "guid": "t9nW;W0|kg",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::imperativ_lassen"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "aee49b55-99db-55b7-be63-c6de2cc12e94",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "20 Indefinitpronomen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<b>man</b> = {{c1::jemand allgemein}} (you / one / people). Das Verb steht in der {{c2::3. Person Singular}}.",
+                        "Man darf hier nicht rauchen."
+                    ],
+                    "guid": "el/nZ%;.r9",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "jemand / niemand: Akk. {{c1::jemanden / niemanden}} · Dat. {{c2::jemandem / niemandem}}",
+                        ""
+                    ],
+                    "guid": ",,=19X.6[a",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich habe einen Bruder. → Ich habe {{c1::einen}}.<br>Ich habe keinen Bruder. → Ich habe {{c2::keinen}}.<br>Ich habe Brüder? (Plural, positiv) → Ich habe {{c3::welche}}.",
+                        "Nomen ohne Artikel im Plural: positiv → welche, negativ → keine."
+                    ],
+                    "guid": "lJ5Y{EcH=!",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hast du einen Stift? – Ja, ich habe {{c1::einen}}.",
+                        "EN: Do you have a pen? – Yes, I have one."
+                    ],
+                    "guid": "S:,,1yfxkz",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hast du eine Schwester? – Ja, ich habe {{c1::eine}}.",
+                        "EN: Do you have a sister? – Yes, I have one."
+                    ],
+                    "guid": "U4t_AuemOs",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hast du ein Auto? – Nein, ich habe {{c1::keins}}.",
+                        "kein-es<br>EN: Do you have a car? – No, I don't have one."
+                    ],
+                    "guid": "`_8W^Wj_-$",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hast du Geschwister? – Ja, ich habe {{c1::welche}}.",
+                        "EN: Do you have siblings? – Yes, I have some."
+                    ],
+                    "guid": "1|#[,[bM,M",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Haben Sie Kinder? – Nein, wir haben {{c1::keine}}.",
+                        "EN: Do you have children? – No, we have none."
+                    ],
+                    "guid": "$X~&+YtqrL",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Brauchst du Geld? – Ja, hast du {{c1::welches}}?",
+                        "Geld = Neutrum<br>EN: Do you need money? – Yes, have you got any?"
+                    ],
+                    "guid": "tKonji?^7a",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Man}} spricht hier Deutsch.",
+                        "EN: German is spoken here."
+                    ],
+                    "guid": "3#{;:xvvF*",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich kenne hier {{c1::niemanden}}.",
+                        "kennen + Akk.<br>EN: I don't know anyone here."
+                    ],
+                    "guid": "bQn!_c9OeO",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hast du {{c1::jemanden}} gesehen?",
+                        "EN: Did you see anyone?"
+                    ],
+                    "guid": "G}=v4V[7wV",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich möchte {{c1::etwas}} Warmes trinken.",
+                        "etwas + Adjektiv (groß, -es)<br>EN: I'd like to drink something warm."
+                    ],
+                    "guid": "p]JB:f/&3q",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Es gibt {{c1::nichts}} Neues.",
+                        "EN: There's nothing new."
+                    ],
+                    "guid": "{=t[tCVmdG",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Alle}} sind gekommen.",
+                        "EN: Everyone came."
+                    ],
+                    "guid": "`;Zx{fts?K",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Manche}} Leute mögen keinen Fisch.",
+                        "EN: Some people don't like fish."
+                    ],
+                    "guid": "4IV4i#~`dU",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Jeder}} muss das selbst entscheiden.",
+                        "EN: Everyone has to decide that for themselves."
+                    ],
+                    "guid": "w$C@gpK%8&",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Er hat {{c1::alles}} vergessen.",
+                        "EN: He forgot everything."
+                    ],
+                    "guid": "4~O^Fzdv<@",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::indefinitpronomen"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "343f340e-026d-5ae9-b46d-981b1552ee3f",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "21 Modalpartikeln",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Modalpartikeln ändern den {{c1::Ton}} eines Satzes, nicht seine Bedeutung. Sie stehen im {{c2::Mittelfeld}} und sind meist unbetont.",
+                        ""
+                    ],
+                    "guid": "9Vb{Pg/7WS",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "doch = {{c1::Nachdruck / Widerspruch}} · mal = {{c2::Abschwächung}} · ja = {{c3::Überraschung / Bekanntes}} · denn = {{c4::Interesse (in Fragen)}} · eigentlich = {{c5::beiläufig}} · halt/eben = {{c6::Resignation: so ist es}} · etwa = {{c7::misstrauische Frage}}",
+                        ""
+                    ],
+                    "guid": "Ap!Gbm(qlx",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Komm {{c1::doch}} mal vorbei!",
+                        "doch = freundliche Aufforderung<br>EN: Do drop by sometime!"
+                    ],
+                    "guid": "?wdy(YYB]3",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Setz dich {{c1::doch}}!",
+                        "EN: Do sit down!"
+                    ],
+                    "guid": "v%u47P*SN^",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Komm {{c1::mal}} her!",
+                        "mal macht den Befehl weicher<br>EN: Come here a sec."
+                    ],
+                    "guid": "1]Q?daJJ9V",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kannst du mir {{c1::mal}} helfen?",
+                        "EN: Could you give me a hand?"
+                    ],
+                    "guid": "<1tZOD~2TO",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das ist {{c1::ja}} toll!",
+                        "ja = Überraschung<br>EN: Oh, that's great!"
+                    ],
+                    "guid": "sT0PKsYOJk",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Du weißt {{c1::ja}}, dass ich keine Zeit habe.",
+                        "ja = wie du weißt<br>EN: As you know, I don't have time."
+                    ],
+                    "guid": "93eBuBtV`X",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wie spät ist es {{c1::eigentlich}}?",
+                        "eigentlich = by the way<br>EN: What time is it, actually?"
+                    ],
+                    "guid": "A).UNF6Mpc",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Wo wohnst du {{c1::denn}}?",
+                        "denn = Interesse<br>EN: So where do you live?"
+                    ],
+                    "guid": "^dsU~a<v9+",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Was ist {{c1::denn}} los?",
+                        "EN: What on earth is going on?"
+                    ],
+                    "guid": "Q}>*4pb5hP",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das ist {{c1::halt}} so.",
+                        "Resignation<br>EN: That's just how it is."
+                    ],
+                    "guid": "/ad0J,:Wf*",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das ist {{c1::eben}} so.",
+                        "Resignation<br>EN: That's just the way it is."
+                    ],
+                    "guid": "9?A))|=YGT",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das ist {{c1::aber}} schön!",
+                        "aber = starke Betonung<br>EN: Well, that's lovely!"
+                    ],
+                    "guid": "bhbd1*XR>8",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hast du {{c1::etwa}} schon wieder verschlafen?",
+                        "etwa = Verdacht<br>EN: Don't tell me you overslept again?"
+                    ],
+                    "guid": "j<vSE3sg-J",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das wird {{c1::schon}} klappen.",
+                        "schon = Beruhigung<br>EN: It'll work out, don't worry."
+                    ],
+                    "guid": ".+?||SHbdN",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das weiß ich {{c1::doch}}!",
+                        "doch = Widerspruch<br>EN: But I know that!"
+                    ],
+                    "guid": "cOF5q1u^RM",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::modalpartikeln"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "72925593-140b-5d24-a5e7-06fdfaddf9cc",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "22 Zahlen, Datum, Uhrzeit",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ordinalzahlen: 1.–19. + {{c1::-te}}, ab 20. + {{c2::-ste}}<br>Unregelmäßig: 1. {{c3::erste}}, 3. {{c4::dritte}}, 7. {{c5::siebte}}, 8. {{c6::achte}}",
+                        "der vierte, der zwanzigste, der einunddreißigste"
+                    ],
+                    "guid": "PbyVCE=j.-",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Datum: <i>Heute ist …</i> → {{c1::der}} + Ordinalzahl (Nom.) · <i>am</i> + Ordinalzahl + {{c2::-n}} (Dat.)",
+                        "Heute ist der dritte Mai. · Am dritten Mai habe ich Geburtstag."
+                    ],
+                    "guid": "swad[qPYK5",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Der}} wievielte ist heute? / {{c2::Den}} wievielten haben wir heute?",
+                        "Heute ist der fünfzehnte November. / Heute haben wir den fünfzehnten November."
+                    ],
+                    "guid": "_t@|$u8fFD",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Heute ist {{c1::der fünfzehnte}} November.",
+                        "EN: Today is the fifteenth of November."
+                    ],
+                    "guid": "!2!{=<NR4+",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Am {{c1::dritten}} Mai habe ich Geburtstag.",
+                        "EN: My birthday is on the third of May."
+                    ],
+                    "guid": "75_j&pXavq",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Der Kurs beginnt am {{c1::ersten}} Juni.",
+                        "EN: The course starts on the first of June."
+                    ],
+                    "guid": ")5&Qxikvh5",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sie hat am {{c1::siebten}} Juli Geburtstag.",
+                        "EN: Her birthday is on the seventh of July."
+                    ],
+                    "guid": ">O5TUWEF]}",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich bin am {{c1::zwanzigsten}} August geboren.",
+                        "EN: I was born on the twentieth of August."
+                    ],
+                    "guid": "{ouaKBKy9h",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vom {{c1::dritten}} bis {{c1::fünften}} Juni bin ich auf Reisen.",
+                        "EN: From the third to the fifth of June I'm away."
+                    ],
+                    "guid": "8CVoWA,z[O",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Informelle Uhrzeit: 15:15 = {{c1::Viertel nach drei}} · 15:30 = {{c2::halb vier}} · 15:45 = {{c3::Viertel vor vier}} · 15:20 = {{c4::zwanzig nach drei}} · 15:40 = {{c5::zwanzig vor vier}}",
+                        "halb vier = 3:30 (halb + die nächste Stunde)"
+                    ],
+                    "guid": "6jd8+#u>%d",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Es ist {{c1::halb}} drei.",
+                        "halb + nächste Stunde<br>EN: It's half past two."
+                    ],
+                    "guid": ".wN2BCz%Cb",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Der Film beginnt um {{c1::Viertel}} vor acht.",
+                        "EN: The film starts at a quarter to eight."
+                    ],
+                    "guid": "Z+.qskjBB5",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Der Zug fährt um {{c1::dreizehn Uhr siebenundvierzig}} ab.",
+                        "formell: 24-Stunden-Zeit<br>EN: The train departs at 13:47."
+                    ],
+                    "guid": "=Wha14<VtT",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das kostet {{c1::fünf Euro fünfzig}}.",
+                        "EN: That costs 5.50 euros."
+                    ],
+                    "guid": "tBPqeI82za",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Brüche: 1/2 = {{c1::die Hälfte}} · 1/3 = {{c2::ein Drittel}} · 1/4 = {{c3::ein Viertel}} · 3/4 = {{c4::drei Viertel}}",
+                        ""
+                    ],
+                    "guid": "iOf+&Eo7$/",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Jahreszahlen: 1999 = {{c1::neunzehnhundertneunundneunzig}} · 2024 = {{c2::zweitausendvierundzwanzig}}",
+                        "Bis 1999 Hunderter-Form, ab 2000 normal."
+                    ],
+                    "guid": "i!eGO_SFl1",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::zahlen_datum_uhrzeit"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "84328984-bdcb-5531-bee2-7d9ed6225073",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "23 Wortbildung",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Genus zusammengesetzter Nomen = Genus des {{c1::letzten Wortes}}.",
+                        "die Haustür (die Tür) · der Türgriff (der Griff) · das Wörterbuch (das Buch)"
+                    ],
+                    "guid": "k+3x,~IX|0",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Das}} Wörterbuch · {{c2::die}} Handtasche · {{c3::der}} Haustürschlüssel",
+                        "letztes Wort: Buch (n), Tasche (f), Schlüssel (m)"
+                    ],
+                    "guid": "Fy{c8y*ix}",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Fugen-s nach -ung, -heit, -keit, -ion, -schaft: Arbeit{{c1::s}}platz · Geburt{{c1::s}}tag · Wohnung{{c1::s}}suche",
+                        "Kein Fugen-s: Haustür, Schlafzimmer."
+                    ],
+                    "guid": "qaVVlGUcIX",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nomen aus Verben: Stamm + {{c1::-ung}} (wohnen → die Wohnung) · Infinitiv → {{c2::das}} + Infinitiv (lesen → das Lesen)",
+                        ""
+                    ],
+                    "guid": "$X-vBXyD78",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nomen aus Adjektiven: {{c1::-heit / -keit}}: frei → die Freiheit · möglich → die Möglichkeit",
+                        "-keit nach -ig, -lich, -bar; sonst -heit"
+                    ],
+                    "guid": "3gj0_aB.-D",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Personen: Verb + {{c1::-er}} (m) / {{c2::-erin}} (f): lehren → der Lehrer / die Lehrerin",
+                        "verkaufen → der Verkäufer / die Verkäuferin"
+                    ],
+                    "guid": "&%}|]gMPwB",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Trennbare Präfixe: {{c1::ab-, an-, auf-, aus-, ein-, mit-, vor-, zu-}}<br>Untrennbare Präfixe: {{c2::be-, ge-, ver-, er-, ent-, emp-, zer-, miss-}}",
+                        ""
+                    ],
+                    "guid": "VkL,G|v3SY",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Adjektive: un- = {{c1::Gegenteil}} · -los = {{c2::ohne}} · -bar = {{c3::man kann}} · -reich = {{c4::viel}} · -voll = {{c5::voll von}}",
+                        "unfreundlich · arbeitslos · trinkbar · erfolgreich · wertvoll"
+                    ],
+                    "guid": "uuhk@R[}^P",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Der Mann hat keine Arbeit. Er ist {{c1::arbeitslos}}.",
+                        "EN: He's unemployed."
+                    ],
+                    "guid": "!V],Sw<H.S",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das Wasser kann man trinken. Es ist {{c1::trinkbar}}.",
+                        "EN: The water is drinkable."
+                    ],
+                    "guid": "s27TQ2_A^T",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Die Verkäuferin war nicht freundlich. Sie war {{c1::unfreundlich}}.",
+                        "EN: The sales assistant was unfriendly."
+                    ],
+                    "guid": "3;avu`sS:^",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Er hat viel Erfolg. Er ist sehr {{c1::erfolgreich}}.",
+                        "EN: He's very successful."
+                    ],
+                    "guid": "z9#>CL:&&i",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das war eine sehr {{c1::hilfreiche}} Information.",
+                        "EN: That was very helpful information."
+                    ],
+                    "guid": "Z[a=S;%=Ig",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Es gibt keine andere {{c1::Möglichkeit}}.",
+                        "EN: There's no other possibility."
+                    ],
+                    "guid": "E~fELESokU",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Meine {{c1::Gesundheit}} ist mir wichtig.",
+                        "gesund → die Gesundheit<br>EN: My health is important to me."
+                    ],
+                    "guid": "QBv(JD)FR>",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich möchte eine {{c1::Bestellung}} aufgeben.",
+                        "bestellen → die Bestellung<br>EN: I'd like to place an order."
+                    ],
+                    "guid": "!yxobGW@6X",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Die {{c1::Entscheidung}} ist gefallen.",
+                        "entscheiden → die Entscheidung<br>EN: The decision has been made."
+                    ],
+                    "guid": "<%ljE~xT=?",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich brauche eine {{c1::Erklärung}}.",
+                        "erklären → die Erklärung<br>EN: I need an explanation."
+                    ],
+                    "guid": "T0A!32,P/4",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das {{c1::Lesen}} macht mir Spaß.",
+                        "lesen → das Lesen<br>EN: I enjoy reading."
+                    ],
+                    "guid": "koe~UNQLjm",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Er ist Fahrer, seine Frau ist {{c1::Fahrerin}}.",
+                        "EN: He's a driver, his wife is a driver."
+                    ],
+                    "guid": "[8My5$b,=G",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::wortbildung"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "16c5e4cf-e8b9-54be-840f-f10df3a031c5",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "24 Adjektive als Nomen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Adjektive/Partizipien als Nomen: groß geschrieben, Endung wie beim Adjektiv<br>der Deutsche / ein {{c1::Deutscher}} · die Deutsche / eine {{c2::Deutsche}} · die {{c3::Deutschen}}",
+                        ""
+                    ],
+                    "guid": "hXGf/z|,Sh",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "etwas / nichts / viel / wenig + Adjektiv: groß, Endung {{c1::-es}} (etwas Neues, nichts Besonderes) · nach <i>alles</i>: {{c2::-e}} (alles Gute)",
+                        ""
+                    ],
+                    "guid": "eR`UPM^iKI",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Er ist {{c1::Deutscher::deutsch}}.",
+                        "ohne Artikel, Nom. maskulin → -er<br>EN: He is German."
+                    ],
+                    "guid": "K4@P=TZG(>",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sie ist {{c1::Deutsche::deutsch}}.",
+                        "ohne Artikel, Nom. feminin → -e<br>EN: She is German."
+                    ],
+                    "guid": "esxEdm;9&?",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Die {{c1::Erwachsenen::erwachsen}} bezahlen mehr.",
+                        "Plural → -en<br>EN: Adults pay more."
+                    ],
+                    "guid": "%,LBBLhAV{",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich habe einen {{c1::Bekannten::bekannt}} in Wien.",
+                        "Akk. maskulin → -en<br>EN: I have an acquaintance in Vienna."
+                    ],
+                    "guid": "OH8K`ynO;h",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das ist ein {{c1::Bekannter::bekannt}} von mir.",
+                        "Nom. maskulin nach ein → -er<br>EN: That's an acquaintance of mine."
+                    ],
+                    "guid": "}cQu0VN:%F",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Meine {{c1::Bekannte::bekannt}} wohnt in Köln.",
+                        "Nom. feminin → -e<br>EN: My (female) acquaintance lives in Cologne."
+                    ],
+                    "guid": "]^`(;@r)HR",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Er hat einen {{c1::Verwandten::verwandt}} in Kanada.",
+                        "Akk. maskulin → -en<br>EN: He has a relative in Canada."
+                    ],
+                    "guid": ")79`&v%PZ_",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich wünsche dir alles {{c1::Gute::gut}}.",
+                        "EN: I wish you all the best."
+                    ],
+                    "guid": "K_?4<[~l9:",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Gibt es etwas {{c1::Neues::neu}}?",
+                        "EN: Is there anything new?"
+                    ],
+                    "guid": "T0^1HYm[C4",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das ist nichts {{c1::Besonderes::besonders}}.",
+                        "EN: That's nothing special."
+                    ],
+                    "guid": "^sK}:6,4,b",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ich möchte etwas {{c1::Kaltes::kalt}} trinken.",
+                        "EN: I'd like to drink something cold."
+                    ],
+                    "guid": "Bz,{R1OT~(",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Die {{c1::Arbeitslosen::arbeitslos}} suchen einen Job.",
+                        "EN: The unemployed are looking for a job."
+                    ],
+                    "guid": "9?8mt!+`gL",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Der {{c1::Angestellte::angestellt}} arbeitet bei einer Bank.",
+                        "Nom. maskulin nach der → -e<br>EN: The employee works at a bank."
+                    ],
+                    "guid": "?!x&puokHv",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::adjektive_als_nomen"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "6cfcadd1-3a2d-5bea-a479-cd3cecaa7d01",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "25 Nomen-Verb-Verbindungen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "eine Entscheidung {{c1::treffen}}",
+                        "Wir müssen bald eine Entscheidung treffen.<br>EN: to make a decision"
+                    ],
+                    "guid": "Jtm)Ze8gn{",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "eine Frage {{c1::stellen}}",
+                        "Darf ich Ihnen eine Frage stellen?<br>EN: to ask a question"
+                    ],
+                    "guid": "{H_l7N#?q4",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Bescheid}} sagen",
+                        "Sagst du mir bitte Bescheid?<br>EN: to let someone know"
+                    ],
+                    "guid": "^u5|SghkD|",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Bescheid}} wissen",
+                        "Ich weiß Bescheid.<br>EN: to be in the picture"
+                    ],
+                    "guid": "G?/yD,1Y!)",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Platz}} nehmen",
+                        "Bitte nehmen Sie Platz.<br>EN: to take a seat"
+                    ],
+                    "guid": "Bx~9(IO*HZ",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Das kommt nicht in {{c1::Frage}}!",
+                        "in Frage kommen<br>EN: That's out of the question!"
+                    ],
+                    "guid": "_q_jDY)glc",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Recht}} haben",
+                        "Du hast Recht.<br>EN: to be right"
+                    ],
+                    "guid": ";9uvYvDrD^",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "auf andere {{c1::Rücksicht}} nehmen",
+                        "EN: to be considerate of others"
+                    ],
+                    "guid": "-l0+4$c=5:",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einen Termin {{c1::vereinbaren}}",
+                        "Ich möchte einen Termin vereinbaren.<br>EN: to make an appointment"
+                    ],
+                    "guid": "5#Ux7Beli4",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einen Antrag {{c1::stellen}}",
+                        "Sie müssen einen Antrag stellen.<br>EN: to submit an application"
+                    ],
+                    "guid": "}lL9+ka7Ps",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einen Fehler {{c1::machen}}",
+                        "Ich habe einen Fehler gemacht.<br>EN: to make a mistake"
+                    ],
+                    "guid": ")uCWE4!=%U",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Fortschritte}} machen",
+                        "Du machst gute Fortschritte.<br>EN: to make progress"
+                    ],
+                    "guid": ".F5@g2D3X[",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einen {{c1::Vorschlag}} machen",
+                        "Darf ich einen Vorschlag machen?<br>EN: to make a suggestion"
+                    ],
+                    "guid": ",ZI5dtz*EE",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "zur {{c1::Verfügung}} stehen",
+                        "Das Auto steht uns nicht zur Verfügung.<br>EN: to be available"
+                    ],
+                    "guid": "_h@_@5zT|?",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "etwas in {{c1::Ordnung}} bringen",
+                        "Ich bringe das in Ordnung.<br>EN: to sort something out"
+                    ],
+                    "guid": "<Q<{Yl(=bE",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einen {{c1::Rat}} geben",
+                        "Kannst du mir einen Rat geben?<br>EN: to give advice"
+                    ],
+                    "guid": "k8=n(#n%G=",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Kontakt}} aufnehmen",
+                        "Bitte nehmen Sie mit uns Kontakt auf.<br>EN: to get in touch"
+                    ],
+                    "guid": "{%i!XoF`EL",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "zu {{c1::Ende}} gehen",
+                        "Der Urlaub geht leider zu Ende.<br>EN: to come to an end"
+                    ],
+                    "guid": "-x0R@+^M<C",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "keine {{c1::Rolle}} spielen",
+                        "Das Geld spielt keine Rolle.<br>EN: to not matter"
+                    ],
+                    "guid": "LS{jOCt~Y>",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Spaß}} machen",
+                        "Deutsch lernen macht Spaß.<br>EN: to be fun"
+                    ],
+                    "guid": "+r}jq|Lxq1",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Abschied}} nehmen",
+                        "Wir müssen Abschied nehmen.<br>EN: to say goodbye"
+                    ],
+                    "guid": "C3l!N9/lY|",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sport {{c1::treiben}}",
+                        "Ich treibe jeden Tag Sport.<br>EN: to do sport"
+                    ],
+                    "guid": "_!}ffoTh+|",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "{{c1::Schlange}} stehen",
+                        "Wir mussten lange Schlange stehen.<br>EN: to queue"
+                    ],
+                    "guid": "OKdT];1P9n",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "gute {{c1::Erfahrungen}} machen",
+                        "Ich habe gute Erfahrungen damit gemacht.<br>EN: to have good experiences"
+                    ],
+                    "guid": "AORUscnxbc",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "einen guten {{c1::Eindruck}} machen",
+                        "Er hat einen guten Eindruck gemacht.<br>EN: to make a good impression"
+                    ],
+                    "guid": "t{!/y-cW*^",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "großen {{c1::Wert}} auf etwas legen",
+                        "Ich lege großen Wert auf Pünktlichkeit.<br>EN: to attach great importance to something"
+                    ],
+                    "guid": "lxhd(Z+BQf",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "grammatik::nomen_verb"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         }
     ],
     "crowdanki_uuid": "370a4b4a-f1bf-5ef7-9a00-1262c761d51a",
