@@ -1,0 +1,1305 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "21e23d51-6831-5684-b1c2-e291c4e54fd8",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "01 Schreiben Teil 1 – E-Mail an Freunde",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dear Anna, / Dear Tom,<br><br>{{c1::Liebe Anna, / Lieber Tom,}}",
+                        "Nach dem Komma klein weiterschreiben."
+                    ],
+                    "guid": "1PvoVc%3?X",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hi Tom,<br><br>{{c1::Hallo Tom,}}",
+                        ""
+                    ],
+                    "guid": "0T0nef+<3I",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Thanks for your email.<br><br>{{c1::Danke für deine E-Mail.}}",
+                        ""
+                    ],
+                    "guid": "nd#tUD-a,Q",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How are you? I'm fine.<br><br>{{c1::Wie geht es dir? Mir geht es gut.}}",
+                        ""
+                    ],
+                    "guid": "ST?>ox!`Rf",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sorry for only replying now.<br><br>{{c1::Entschuldige, dass ich erst jetzt antworte.}}",
+                        ""
+                    ],
+                    "guid": "iFH8XqKf?L",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I was really pleased to hear from you.<br><br>{{c1::Ich habe mich sehr über deine Nachricht gefreut.}}",
+                        ""
+                    ],
+                    "guid": "t{I@s[vPaB",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Guess what happened to me!<br><br>{{c1::Stell dir vor, was mir passiert ist!}}",
+                        ""
+                    ],
+                    "guid": "z=S6(i01wK",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Unfortunately I can't come because …<br><br>{{c1::Leider kann ich nicht kommen, weil …}}",
+                        ""
+                    ],
+                    "guid": "R8=^*3zLmL",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'm sorry to hear that.<br><br>{{c1::Das tut mir leid.}}",
+                        ""
+                    ],
+                    "guid": "i_2-EZIoG^",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Congratulations on your new job!<br><br>{{c1::Herzlichen Glückwunsch zu deiner neuen Stelle!}}",
+                        ""
+                    ],
+                    "guid": ")c+(NX7Eym",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'd be glad to help you.<br><br>{{c1::Ich helfe dir gern.}}",
+                        ""
+                    ],
+                    "guid": "|BHncxPtYF",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Do you have time next weekend?<br><br>{{c1::Hast du nächstes Wochenende Zeit?}}",
+                        ""
+                    ],
+                    "guid": "2mm0!f*sH.",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What do you think about that?<br><br>{{c1::Was hältst du davon?}}",
+                        ""
+                    ],
+                    "guid": "M&uApmcLjT",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Write back soon!<br><br>{{c1::Schreib mir bald!}}",
+                        ""
+                    ],
+                    "guid": ")HWxPV;u$m",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'm looking forward to your reply.<br><br>{{c1::Ich freue mich auf deine Antwort.}}",
+                        ""
+                    ],
+                    "guid": "&k&,m)y49<",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Say hello to your family from me.<br><br>{{c1::Grüß deine Familie von mir!}}",
+                        ""
+                    ],
+                    "guid": "vOnWE>mC{]",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Best wishes / Love,<br><br>{{c1::Viele Grüße / Liebe Grüße}}",
+                        ""
+                    ],
+                    "guid": "pDNAy+Mu?4",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_informell"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "95181ce3-2570-5e11-892e-7b071df42e03",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "02 Schreiben Teil 2 – Meinung im Forum",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In my opinion …<br><br>{{c1::Meiner Meinung nach …}}",
+                        "Danach kommt das Verb: Meiner Meinung nach <b>ist</b> …"
+                    ],
+                    "guid": "RdF(kr0}@J",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I think that …<br><br>{{c1::Ich finde / denke / glaube, dass …}}",
+                        ""
+                    ],
+                    "guid": "GeMbqQ=h`;",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'm of the opinion that …<br><br>{{c1::Ich bin der Meinung, dass …}}",
+                        ""
+                    ],
+                    "guid": ">.ZE+(g,=9",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "From my point of view …<br><br>{{c1::Aus meiner Sicht …}}",
+                        ""
+                    ],
+                    "guid": "ejH//cd*4j",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I agree with you.<br><br>{{c1::Ich stimme dir zu.}}",
+                        ""
+                    ],
+                    "guid": "!>,|#yAf;?",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I see it completely differently.<br><br>{{c1::Da bin ich ganz anderer Meinung.}}",
+                        ""
+                    ],
+                    "guid": "G@^mq#|NQO",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "That's true, but …<br><br>{{c1::Das stimmt, aber …}}",
+                        ""
+                    ],
+                    "guid": "j?9Hc!(yRw",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "On the one hand …, on the other hand …<br><br>{{c1::Einerseits …, andererseits …}}",
+                        ""
+                    ],
+                    "guid": "2lJcr@X!hE",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "One advantage is that …<br><br>{{c1::Ein Vorteil ist, dass …}}",
+                        ""
+                    ],
+                    "guid": "e1T*d9GoQ~",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "One disadvantage is that …<br><br>{{c1::Ein Nachteil ist, dass …}}",
+                        ""
+                    ],
+                    "guid": "Pn+&P;z*1/",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I've found that … (from experience)<br><br>{{c1::Ich habe die Erfahrung gemacht, dass …}}",
+                        ""
+                    ],
+                    "guid": "x8x:)o7$Qf",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In my home country …<br><br>{{c1::In meinem Heimatland …}}",
+                        ""
+                    ],
+                    "guid": "bbd5Jj%lVC",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "For example …<br><br>{{c1::Zum Beispiel …}}",
+                        ""
+                    ],
+                    "guid": "!GnGjG55cG",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "It's important that …<br><br>{{c1::Es ist wichtig, dass …}}",
+                        ""
+                    ],
+                    "guid": ")1LD;dNR/%",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "All in all …<br><br>{{c1::Alles in allem …}}",
+                        ""
+                    ],
+                    "guid": "Lzs%0u1$4+",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_meinung"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "dc09f7d3-b882-59fe-a72b-e301db2a6160",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "03 Schreiben Teil 3 – formelle Nachricht",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dear Sir or Madam,<br><br>{{c1::Sehr geehrte Damen und Herren,}}",
+                        ""
+                    ],
+                    "guid": "LE:$(FC1hO",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dear Mr Meier, / Dear Ms Meier,<br><br>{{c1::Sehr geehrter Herr Meier, / Sehr geehrte Frau Meier,}}",
+                        ""
+                    ],
+                    "guid": "zWI<h`Kr(}",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'm writing to you because …<br><br>{{c1::Ich schreibe Ihnen, weil …}}",
+                        ""
+                    ],
+                    "guid": "n,ikXqB(`V",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Thank you very much for your invitation.<br><br>{{c1::Vielen Dank für Ihre Einladung.}}",
+                        ""
+                    ],
+                    "guid": "}-|`AMm)62",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Unfortunately I have to cancel the appointment.<br><br>{{c1::Leider muss ich den Termin absagen.}}",
+                        ""
+                    ],
+                    "guid": "b+Fza0k=k;",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Could we arrange a new appointment?<br><br>{{c1::Könnten wir einen neuen Termin vereinbaren?}}",
+                        ""
+                    ],
+                    "guid": "8HxfJk2uR/",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'd like to ask whether …<br><br>{{c1::Ich möchte fragen, ob …}}",
+                        ""
+                    ],
+                    "guid": "r:iv#r%CmF",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I would be very grateful if …<br><br>{{c1::Ich wäre Ihnen sehr dankbar, wenn …}}",
+                        ""
+                    ],
+                    "guid": "eCV--qJS5?",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Please excuse the delay.<br><br>{{c1::Bitte entschuldigen Sie die Verspätung.}}",
+                        ""
+                    ],
+                    "guid": "Z2[G9$Rud]",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Thank you in advance.<br><br>{{c1::Vielen Dank im Voraus.}}",
+                        ""
+                    ],
+                    "guid": ".*}.^i:,6R",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I look forward to your reply.<br><br>{{c1::Ich freue mich auf Ihre Antwort.}}",
+                        ""
+                    ],
+                    "guid": "Yx+4B--!,{",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Kind regards,<br><br>{{c1::Mit freundlichen Grüßen}}",
+                        ""
+                    ],
+                    "guid": "l`5uNT^qL,",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::schreiben_formell"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "32de7f97-d644-5d1e-a04c-e786888b704a",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "04 Sprechen Teil 1 – gemeinsam planen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Shall we …?<br><br>{{c1::Sollen wir …?}}",
+                        ""
+                    ],
+                    "guid": "YoV#<:b)`H",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How about if we …?<br><br>{{c1::Wie wäre es, wenn wir …?}}",
+                        ""
+                    ],
+                    "guid": "2hd.;`.xj#",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What do you think about …?<br><br>{{c1::Was hältst du davon, wenn …?}}",
+                        ""
+                    ],
+                    "guid": "|h;Fx<B[q[",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I suggest that …<br><br>{{c1::Ich schlage vor, dass …}}",
+                        ""
+                    ],
+                    "guid": "-if.p46p$|",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Let's …!<br><br>{{c1::Lass uns …!}}",
+                        ""
+                    ],
+                    "guid": "dMG#p?K/PD",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "That's a good idea.<br><br>{{c1::Das ist eine gute Idee.}}",
+                        ""
+                    ],
+                    "guid": "n<umAZMis4",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Good idea, but …<br><br>{{c1::Gute Idee, aber …}}",
+                        ""
+                    ],
+                    "guid": "gDtOE|kN{6",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I don't like that so much.<br><br>{{c1::Das gefällt mir nicht so gut.}}",
+                        ""
+                    ],
+                    "guid": "v)sRlBJbiQ",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'd rather …<br><br>{{c1::Ich würde lieber …}}",
+                        ""
+                    ],
+                    "guid": "!dN=,mJc+b",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "When do you have time?<br><br>{{c1::Wann hast du Zeit?}}",
+                        ""
+                    ],
+                    "guid": "=3,[S3c=r$",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Unfortunately that doesn't work for me.<br><br>{{c1::Da kann ich leider nicht.}}",
+                        ""
+                    ],
+                    "guid": "sUyl9#Ex4C",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Who'll take care of …?<br><br>{{c1::Wer kümmert sich um …?}}",
+                        ""
+                    ],
+                    "guid": "zhoKImqBh`",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I can take care of the drinks.<br><br>{{c1::Ich kann mich um die Getränke kümmern.}}",
+                        ""
+                    ],
+                    "guid": "q1LC$@r4RN",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What should we bring?<br><br>{{c1::Was sollen wir mitbringen?}}",
+                        ""
+                    ],
+                    "guid": "pg&S5jSlbE",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Agreed! Let's do it that way.<br><br>{{c1::Einverstanden! Machen wir das so.}}",
+                        ""
+                    ],
+                    "guid": "5-N]!W_/Rq",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_planen"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "250d8293-79fa-5641-862e-97f5a6813e6f",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "05 Sprechen Teil 2 – Präsentation",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Today I'd like to talk about the topic …<br><br>{{c1::Ich möchte heute über das Thema „…“ sprechen.}}",
+                        ""
+                    ],
+                    "guid": "~+d(5M9|]6",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "My presentation consists of the following parts:<br><br>{{c1::Meine Präsentation besteht aus folgenden Teilen:}}",
+                        ""
+                    ],
+                    "guid": "DK1R,Iw2g?",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "First … Then … After that … Finally …<br><br>{{c1::Zuerst … Dann … Danach … Zum Schluss …}}",
+                        ""
+                    ],
+                    "guid": "J?OFq4vd?)",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I've experienced this myself: …<br><br>{{c1::Ich habe selbst die Erfahrung gemacht, dass …}}",
+                        ""
+                    ],
+                    "guid": "?](Ee+1s$g",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In my home country it's like this: …<br><br>{{c1::In meinem Heimatland ist das so: …}}",
+                        ""
+                    ],
+                    "guid": "X2N@|!zSNG",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "It's quite different where I come from.<br><br>{{c1::Bei uns ist das ganz anders.}}",
+                        ""
+                    ],
+                    "guid": ";`EK3flKQ7",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Now I'm coming to the next point.<br><br>{{c1::Jetzt komme ich zum nächsten Punkt.}}",
+                        ""
+                    ],
+                    "guid": "5[=$AV^Uk<",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "A big advantage is …<br><br>{{c1::Ein großer Vorteil ist …}}",
+                        ""
+                    ],
+                    "guid": "X5*HZt{gec",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What speaks against it is that …<br><br>{{c1::Dagegen spricht, dass …}}",
+                        ""
+                    ],
+                    "guid": "VM/;eT%5o[",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Personally, I think …<br><br>{{c1::Ich persönlich finde …}}",
+                        ""
+                    ],
+                    "guid": "<q7}Yy#e7r",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "That brings me to the end of my presentation.<br><br>{{c1::Damit bin ich am Ende meiner Präsentation.}}",
+                        ""
+                    ],
+                    "guid": "16wJ#XLsRB",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Thank you for your attention.<br><br>{{c1::Vielen Dank für Ihre Aufmerksamkeit.}}",
+                        ""
+                    ],
+                    "guid": "fV^>)%`;i$",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Do you have any questions?<br><br>{{c1::Haben Sie noch Fragen?}}",
+                        ""
+                    ],
+                    "guid": "}UQm7IwuL3",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_praesentation"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "fdb9fc33-15db-5d85-988c-5ff7ec7d1b23",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "06 Sprechen Teil 3 – Feedback und Fragen",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Thank you for your interesting presentation.<br><br>{{c1::Vielen Dank für deine interessante Präsentation.}}",
+                        ""
+                    ],
+                    "guid": "AN1#6K]VI<",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I particularly liked that …<br><br>{{c1::Mir hat besonders gut gefallen, dass …}}",
+                        ""
+                    ],
+                    "guid": "sthb]f6.W`",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I found the part about … very interesting.<br><br>{{c1::Ich fand den Teil über … sehr interessant.}}",
+                        ""
+                    ],
+                    "guid": "9z-MsQea]A",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I learned a lot of new things.<br><br>{{c1::Ich habe viel Neues gelernt.}}",
+                        ""
+                    ],
+                    "guid": "r-gw-Z5^SE",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I have a question about …<br><br>{{c1::Ich habe eine Frage zu …}}",
+                        ""
+                    ],
+                    "guid": "XMZ9wj>u?k",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Can you explain again …?<br><br>{{c1::Kannst du noch einmal erklären, …?}}",
+                        ""
+                    ],
+                    "guid": "GWU/Ol$->J",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "That's a good question.<br><br>{{c1::Das ist eine gute Frage.}}",
+                        ""
+                    ],
+                    "guid": "ft#Yvo:iXv",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'm not sure, but I think …<br><br>{{c1::Da bin ich nicht sicher, aber ich glaube, …}}",
+                        ""
+                    ],
+                    "guid": "g_:T&ow;t|",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sorry, I didn't understand that.<br><br>{{c1::Entschuldigung, das habe ich nicht verstanden.}}",
+                        ""
+                    ],
+                    "guid": "?8x{D-ifEo",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Could you repeat that, please?<br><br>{{c1::Können Sie das bitte wiederholen?}}",
+                        ""
+                    ],
+                    "guid": ")r9[d2NmL2",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Could you speak a bit more slowly, please?<br><br>{{c1::Könnten Sie bitte etwas langsamer sprechen?}}",
+                        ""
+                    ],
+                    "guid": "L,xLQy2ZG]",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What does … mean?<br><br>{{c1::Was bedeutet …?}}",
+                        ""
+                    ],
+                    "guid": "ruE7y4PICg",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::sprechen_feedback"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "16863331-f862-50d8-90f3-f9e0feeb08ea",
+    "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsParams6": [
+                0.212,
+                1.2931,
+                2.3065,
+                8.2956,
+                6.4133,
+                0.8334,
+                3.0194,
+                0.001,
+                1.8722,
+                0.1666,
+                0.796,
+                1.4835,
+                0.0614,
+                0.2629,
+                1.6483,
+                0.6014,
+                1.8729,
+                0.5425,
+                0.0912,
+                0.0658,
+                0.1542
+            ],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "10",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 10
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "desiredRetention": null,
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Deutsch 2::Redemittel Goethe B1",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+            "css": ".card {\n    font-family: arial;\n    font-size: 22px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n.cloze {\n    font-weight: bold;\n    color: #1a5fb4;\n}\n.extra {\n    margin-top: 1em;\n    font-size: 18px;\n    color: #555;\n}\n.nightMode .cloze { color: #8ab4f8; }\n.nightMode .extra { color: #bbb; }\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 195922623470624545,
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 319545550248846531,
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Grammatik Cloze",
+            "originalStockKind": 5,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}\n\n{{#Back Extra}}<div class=\"extra\">{{Back Extra}}</div>{{/Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": 340611981533390567,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "<small>{{Deck}}</small>\n\n<br><br>\n\n{{cloze:Text}}"
+                }
+            ],
+            "type": 1
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
