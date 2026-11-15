@@ -1122,6 +1122,337 @@
             ],
             "reviewLimit": null,
             "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "6abc5907-4384-5759-bcf6-7b1b6d4215d8",
+            "deck_config_uuid": "a8a696ce-1f6b-11f1-81cf-a78898210146",
+            "desc": "",
+            "desiredRetention": null,
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "07 Alltag – Telefon, Termine, Arzt, Amt",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hello, this is Anna Müller speaking.<br><br>{{c1::Guten Tag, hier spricht Anna Müller.}}",
+                        ""
+                    ],
+                    "guid": "*[i%Z-n}s)",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Could I speak to Mr Meier, please?<br><br>{{c1::Könnte ich bitte mit Herrn Meier sprechen?}}",
+                        ""
+                    ],
+                    "guid": "h>YLx?;FUW",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "One moment, I'll put you through.<br><br>{{c1::Einen Moment, ich verbinde Sie.}}",
+                        ""
+                    ],
+                    "guid": "8z4D~@p,aK",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "He isn't here at the moment. Can I take a message?<br><br>{{c1::Er ist im Moment nicht da. Kann ich etwas ausrichten?}}",
+                        ""
+                    ],
+                    "guid": "rG]7:;07wR",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'll call back later.<br><br>{{c1::Ich rufe später noch einmal an.}}",
+                        ""
+                    ],
+                    "guid": "Dt>{0|9QO|",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sorry, the line is bad. Could you repeat that?<br><br>{{c1::Entschuldigung, die Verbindung ist schlecht. Können Sie das wiederholen?}}",
+                        ""
+                    ],
+                    "guid": "|K>j{AW%.Y",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Thank you for calling. Goodbye.<br><br>{{c1::Vielen Dank für Ihren Anruf. Auf Wiederhören.}}",
+                        ""
+                    ],
+                    "guid": "hg;o0}<o^*",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'd like to make an appointment.<br><br>{{c1::Ich möchte einen Termin vereinbaren.}}",
+                        ""
+                    ],
+                    "guid": "xE<=oAb-iI",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Do you have time on Tuesday morning?<br><br>{{c1::Haben Sie am Dienstagvormittag Zeit?}}",
+                        ""
+                    ],
+                    "guid": "@)0gdR]7fu",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Unfortunately I can't make it then.<br><br>{{c1::Zu diesem Zeitpunkt kann ich leider nicht.}}",
+                        ""
+                    ],
+                    "guid": "feD(=+V*CB",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Could we move the appointment?<br><br>{{c1::Könnten wir den Termin verschieben?}}",
+                        ""
+                    ],
+                    "guid": "@s>uwtK^R-",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'm afraid I have to cancel.<br><br>{{c1::Ich muss den Termin leider absagen.}}",
+                        ""
+                    ],
+                    "guid": "@+K&hG<.1y",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'd like to make a complaint.<br><br>{{c1::Ich möchte mich beschweren.}}",
+                        ""
+                    ],
+                    "guid": "E20yrfW|N5",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The product is damaged.<br><br>{{c1::Das Produkt ist beschädigt.}}",
+                        ""
+                    ],
+                    "guid": "P>3=Pb::gM",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'd like my money back.<br><br>{{c1::Ich möchte mein Geld zurück.}}",
+                        ""
+                    ],
+                    "guid": "FI:o;}?{Ga",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Could you exchange it for me?<br><br>{{c1::Könnten Sie es mir umtauschen?}}",
+                        ""
+                    ],
+                    "guid": "Eg4!)_~;x.",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "That's not acceptable.<br><br>{{c1::Das ist nicht akzeptabel.}}",
+                        ""
+                    ],
+                    "guid": ":Y.r%DCi-M",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I have an appointment at 10.<br><br>{{c1::Ich habe um 10 Uhr einen Termin.}}",
+                        ""
+                    ],
+                    "guid": "~_M_%qY2xI",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I've had a headache for three days.<br><br>{{c1::Ich habe seit drei Tagen Kopfschmerzen.}}",
+                        ""
+                    ],
+                    "guid": "kh;0X7hN_Q",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "It hurts here.<br><br>{{c1::Hier tut es weh.}}",
+                        ""
+                    ],
+                    "guid": "/:~HH3qb{!",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Do I need a prescription?<br><br>{{c1::Brauche ich ein Rezept?}}",
+                        ""
+                    ],
+                    "guid": "pld5:,+FRa",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "How often should I take the medicine?<br><br>{{c1::Wie oft soll ich das Medikament nehmen?}}",
+                        ""
+                    ],
+                    "guid": "RuL_7274)a",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "I'd like to register my address.<br><br>{{c1::Ich möchte meinen Wohnsitz anmelden.}}",
+                        ""
+                    ],
+                    "guid": "c,xDD~5xgJ",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Which documents do I need?<br><br>{{c1::Welche Unterlagen brauche ich?}}",
+                        ""
+                    ],
+                    "guid": "*5*s`|E3v+",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Where do I have to sign?<br><br>{{c1::Wo muss ich unterschreiben?}}",
+                        ""
+                    ],
+                    "guid": "2oBu`xH=/=",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Is the form also available in English?<br><br>{{c1::Gibt es das Formular auch auf Englisch?}}",
+                        ""
+                    ],
+                    "guid": "?|27n.q{AA",
+                    "note_model_uuid": "acb3c8f4-a0a7-568a-b623-37c3a8de4660",
+                    "tags": [
+                        "redemittel::alltag"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         }
     ],
     "crowdanki_uuid": "16863331-f862-50d8-90f3-f9e0feeb08ea",
